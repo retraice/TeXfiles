@@ -2,4 +2,6 @@
 .emacs.desktop
 .emacs.desktop.lock
 backups/
-auto/    
+auto/
+archive/
+\#*    
