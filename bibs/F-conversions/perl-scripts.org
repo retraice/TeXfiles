@@ -1,0 +1,14 @@
+<2023-06-29 Thu 14:03>
+
+
+
+#+begin_src perl
+
+  # Generate "        author = {ReN}," from "@article{ReSeg70,"
+  perl -0pe 's#^(\@article\{ReSeg)(.*)(,)#\1\2\3\n\tauthor = \{Re\2\},#gm' < F-A-in-conversions-test.bib
+
+  # remove   "        author = {Retraice}," 
+  perl -0pe 's#^\@article.*\n(^[[:blank:]]author = \{Retraice\},\n)##gm' < F-A-in-conversions-test.bib
+
+  # 
+#+end_src

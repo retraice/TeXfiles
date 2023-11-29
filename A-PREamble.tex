@@ -1,0 +1,285 @@
+%math
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+%\usepackage{eucal}
+%\usepackage{mathpazo}
+%\usepackage{newtxtext}
+%\usepackage[]{newtxmath}
+%\usepackage{kpfonts}
+%\usepackage{kmath,kerkis}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The AIMA4e math font: 
+\usepackage{mathptmx}                                                  %[2023-05-24 Wed 11:18] debugging Re70 -jlm
+
+% To get P to look like AIMA4e even though the mathptmx font defaults it to fancy.  (See Re67, e.g.)
+% https://tex.stackexchange.com/questions/30049/how-to-select-math-font-in-document
+% https://www.latex-project.org/help/documentation/fntguide.pdf    
+\DeclareMathAlphabet{\foo}{OMS}{cmtt}{m}{n}                            %[2023-05-24 Wed 11:18] debugging Re70 -jlm
+% to get the P right:
+    % \newcommand{\pmathcal}{\foo{P}}  % has to be in E-SEGMENTS-MACROS.tex to work throughtout document    
+    % $\pmathcal$
+        
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    
+% trying to get back my \mathcal{P} (Re67) which looks way to fancy in mathptmx
+%\usepackage{mathalfa}
+
+% to get QED symbol
+\usepackage{amsthm}
+
+
+\usepackage{algpseudocode}
+%\usepackage{mathrsfs}
+    
+% for wrapping figures
+\usepackage{wrapfig}        
+                   
+%graphics
+\usepackage{graphicx}
+%unknown
+\usepackage{epstopdf}
+\usepackage{inputenc}
+%page geometry
+%\usepackage[showframe]{geometry}  %this does show-frame
+\usepackage[margin=2.5cm]{geometry}
+%\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+%colors
+%\usepackage{xcolor}
+% invert colors
+%\usepackage{xcolor}
+\usepackage[usenames,dvipsnames]{xcolor}    
+
+\definecolor{myred}{HTML}{a11510}  % subtitle 
+\definecolor{myblue}{HTML}{108ea1}  % author 
+\definecolor{mygreen}{HTML}{4fa110}
+\definecolor{myhotpink}{HTML}{E80049} 
+\definecolor{mylightred}{HTML}{D0595C}  % abstract, sections  % Retraice color, 2022-1023u 0138
+
+\usepackage{sectsty}
+%\chapterfont{\color{blue}}  % sets colour of chapters
+\sectionfont{\color{mylightred}}  % sets colour of sections
+\subsectionfont{\color{mylightred}}  % sets colour of sections
+\subsectionfont{\color{black}}  % easier to read if black, compared to section
+\subsubsectionfont{\color{mylightred}}  % sets colour of sections    
+\newcommand{\testfunc}{{\color{4fa110}k} = {\color{a11510}x} \mathbin{\color{108ea1}-} {\color{108ea1}2}} % I don't know what this does. 
+
+% sketch colors
+\definecolor{sketchlightblue}{HTML}{32C5FF}
+\newcommand{\sketchlightblue}[1]{\textcolor{sketchlightblue}{#1}}
+\definecolor{sketchred}{HTML}{E02020}
+\newcommand{\sketchred}[1]{\textcolor{sketchred}{#1}}
+\definecolor{sketchorange}{HTML}{FA6400}
+\newcommand{\sketchorange}[1]{\textcolor{sketchorange}{#1}}
+\definecolor{sketchyellow}{HTML}{F7B500}
+\newcommand{\sketchyellow}[1]{\textcolor{sketchyellow}{#1}}
+\definecolor{sketchgreen}{HTML}{6DD400}
+\newcommand{\sketchgreen}[1]{\textcolor{sketchgreen}{#1}}
+\definecolor{sketchaqua}{HTML}{44D7B6}
+\newcommand{\sketchaqua}[1]{\textcolor{sketchaqua}{#1}}
+\definecolor{sketchdarkblue}{HTML}{0091FF}
+\newcommand{\sketchdarkblue}[1]{\textcolor{sketchdarkblue}{#1}}
+\definecolor{sketchpurple}{HTML}{6236FF}
+\newcommand{\sketchpurple}[1]{\textcolor{sketchpurple}{#1}}
+\definecolor{sketchviolet}{HTML}{32C5FF}
+\newcommand{\sketchviolet}[1]{\textcolor{sketchviolet}{#1}}
+\definecolor{sketchblue}{HTML}{B620E0}
+\newcommand{\sketchblue}[1]{\textcolor{sketchblue}{#1}}            
+%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% live notes tools
+% \newcommand{\yellowTime}{\hspace{-12ex}\color{yellow}}
+\newcommand{\yellowTime}[1]{\hspace{-12ex}\color{yellow}{#1}}
+%\newcommand{\lightRed}{\color{mylightred}}
+\newcommand{\uln}{\underline}
+%\newcommand{\yellow}{\color{yellow}}
+%\newcommand{\pink}{\color{pink}}
+\newcommand{\pink}[1]{\textcolor{pink}{#1}}
+\newcommand{\yellow}[1]{\textcolor{yellow}{#1}}
+\newcommand{\lightRed}[1]{\textcolor{mylightred}{#1}}
+\newcommand{\brightRed}[1]{\textcolor{red}{#1}}
+\newcommand{\green}[1]{\textcolor{green}{#1}}
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+
+\newcommand{\mylightred}[1]{\textcolor{mylightred}{#1}}
+    
+\newcommand{\plum}[1]{\textcolor{Plum}{#1}}
+\newcommand{\peach}[1]{\textcolor{Peach}{#1}}
+\newcommand{\forestgreen}[1]{\textcolor{ForestGreen}{#1}}    
+\newcommand{\skyblue}[1]{\textcolor{SkyBlue}{#1}}
+\newcommand{\springgreen}[1]{\textcolor{SpringGreen}{#1}}    
+\newcommand{\tancolor}[1]{\textcolor{Tan}{#1}}
+\newcommand{\darkgrey}[1]{\textcolor{Gray}{#1}}
+\newcommand{\maroon}[1]{\textcolor{Maroon}{#1}}
+                
+\newcommand{\myred}[1]{\textcolor{myred}{#1}}
+\newcommand{\myblue}[1]{\textcolor{myblue}{#1}}
+\newcommand{\mygreen}[1]{\textcolor{mygreen}{#1}}
+
+\newcommand{\cyan}[1]{\textcolor{cyan}{#1}}
+\newcommand{\rubinered}[1]{\textcolor{RubineRed}{#1}}        
+
+% math color pallet
+\definecolor{mathred}{HTML}{E80049}
+\definecolor{mathpurple}{HTML}{986C9F}
+\definecolor{mathorange}{HTML}{EEB003}
+\definecolor{mathpink}{HTML}{D95390}
+\definecolor{mathgreen}{HTML}{6fb530}
+\definecolor{mathlilac}{HTML}{C6B7D6}
+\definecolor{mathlightblue}{HTML}{C0E4F8}
+\definecolor{mathdarkblue}{HTML}{027ABB}
+\definecolor{mathgrey}{HTML}{C5C5C5}
+\definecolor{mathblack}{HTML}{000000}
+    
+
+\newcommand{\mathred}[1]{\textcolor{mathred}{#1}}
+\newcommand{\mathpurple}[1]{\textcolor{mathpurple}{#1}}
+\newcommand{\mathorange}[1]{\textcolor{mathorange}{#1}}
+\newcommand{\mathpink}[1]{\textcolor{mathpink}{#1}}
+\newcommand{\mathgreen}[1]{\textcolor{mathgreen}{#1}}
+\newcommand{\mathlilac}[1]{\textcolor{mathlilac}{#1}}
+\newcommand{\mathlightblue}[1]{\textcolor{mathlightblue}{#1}}
+\newcommand{\mathdarkblue}[1]{\textcolor{mathdarkblue}{#1}}
+\newcommand{\mathgrey}[1]{\textcolor{mathgrey}{#1}}
+\newcommand{\mathblack}[1]{\textcolor{mathblack}{#1}}
+
+\usepackage{soul}
+     \setlength{\fboxsep}{0pt}% removes padding around highlights, fuck yea! 2022-1207w 1555 https://tex.stackexchange.com/questions/74459/remove-space-before-colorbox
+\newcommand{\mathcolorbox}[2]{\colorbox{#1}{$#2$}}
+%\newcommand{\hlfancy}[2]{\sethlcolor{#1}\hl{$#2$}}
+
+\newcommand{\mhi}[1]{\mathcolorbox{yellow}{#1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
+
+\newcommand{\questionmarks}{\red{\Large??????????}}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    
+% endnotes:
+%\usepackage{endnotes}
+%\let\footnote=\endnote
+% change the font 
+%\usepackage[english]{babel} % [2023-05-24 Wed 10:52] debugging Re70 and images aspect ratio.  See 20230523-Tue-notes.org -jlm
+% \usepackage{newcent}
+
+% hyperlinking
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks,
+    linkcolor={myred!100!black},
+    citecolor={f},
+    urlcolor={myblue!100!black}
+}
+    % citecolor={myblue!100!black},
+
+
+% affil (affiliation) in title
+\usepackage{authblk}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% previously inputed:
+% \input{HEADER-FOOTER.tex}  % location of HEADER-FOOTER at 2022-01-02u refactoring
+% temporarily pasted here, on it's way to org mode. [2023-06-28 Wed 16:40]
+
+% from HEADER-FOOTER.tex %%%%%%%%%%%%%%%%%%%%%%%%
+% inputted into A-PREamble.tex
+\usepackage[english]{babel}
+\usepackage{fancyhdr}
+\usepackage{lastpage} 
+% enables `page 1 of N'
+\pagestyle{fancy}
+\fancyhead[C]{}
+\fancyhead[L]{Notes by Retraice. \MaTwoThreeTitle} % (HEADER-FOOTER.tex)
+\fancyhead[R]{\href{https://retraice.com}{retraice.com}}
+\fancyfoot[L]{\copyright \thinspace \the\year \thinspace Retraice, Inc.}
+\fancyfoot[C]{\thepage \thickspace of \pageref{LastPage}}
+\fancyfoot[R]{Last modified: \date{\today}} % this depends on \maketitle.  Use just \today otherwise. https://tex.stackexchange.com/questions/165991/how-to-use-date-today-without-using-maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% index
+% \usepackage{makeidx}
+% \makeindex
+
+% suppress dot at end of bib entries
+\newcommand\EatDot[1]{}
+
+% paragraph spacing
+\setlength{\parskip}{.5em}
+% adjust section spacing
+% 		spacing: how to read {12pt plus 4pt minus 2pt}
+%           12pt is what we would like the spacing to be
+%           plus 4pt means that TeX can stretch it by at most 4pt
+%           minus 2pt means that TeX can shrink it by at most 2pt
+%       This is one example of the concept of, 'glue', in TeX
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{6pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsubsection{0pt}{6pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+% remove square brackets from citations and references
+\makeatletter \renewcommand\@biblabel[1]{} \makeatother  % removes brackets from References. Source:  https://tex.stackexchange.com/questions/223635/remove-square-brackets-from-bibliography-list?noredirect=1&lq=1
+\usepackage{natbib}  % removes brackets from in-text citation!!! Finally!!!  2020_0703f 0416office.  Source: https://tex.stackexchange.com/questions/367467/remove-square-bracketed-citation-in-my-reference-list-while-using-cite-package-f
+%  the ten special characters:
+%   \ $ & # % _ { } ~ ^   print them as text: \textbackslash \$ \& \# \% \_ \{ \} ... tilde \~{} similar $\sim$l ... caret \^{a} hat $\hat{a}$ (aka) circumflex   
+% to supress 'Figure: 1' under figures
+%\usepackage{floatrow}    %removing this to see if it fixes html compilation process; replacing with {float}
+\usepackage{float}
+\usepackage{caption}
+
+% to make all links open in new windows when in HTML format
+\newcommand{\urlNewWindow}[1]{\href[pdfnewwindow=true]{#1}{\nolinkurl{#1}}}
+
+% enable columns
+\usepackage{multicol}
+
+% enable footnote paragragh style
+%\usepackage[para]{footmisc}
+% enable two-column footnotes
+\usepackage{dblfnote}
+\usepackage{fnpos}
+    
+% to lengthen the footnote ruler
+\renewcommand{\footnoterule}{%
+	\kern -3pt
+	\hrule width \textwidth height 0.5pt
+	\kern 2pt
+}
+
+% to add comment sections
+\usepackage{comment}
+
+% to enumerate nested lists for Re17 per https://tex.stackexchange.com/questions/126754/numbers-in-nested-list
+\usepackage{enumitem}
+\setlist[enumerate]{label*=\arabic*.}
+% to make lists always compact: 
+\setlist[enumerate]{noitemsep,topsep=0pt}
+\setlist[itemize]{noitemsep,topsep=0pt}    
+
+%\usepackage{draftwatermark}
+
+\usepackage[normalem]{ulem} % strikeout
+
+% https://libguides.lib.msu.edu/c.php?g=995742&p=8207771
+% for alt text for images
+%\usepackage[]{accessibility}    
+                    
+% location of E SEGMENT MACROS, begin doc and TITLE at 2022-01-02u refactoring
+\input{/Users/jeffre/Dropbox/AJcode/JeffCode/homeStuff/TeXfiles/E-SEGMENTS-MACROS.tex}
+%
+
+\usepackage{blindtext}
+
+% for table
+\usepackage{array}
+
+% for Chinese, etc, added at Ma23 experiments 
+\usepackage{CJKutf8}
+
+
+% \begin{document}	 % commented out for org mod [2023-06-28 Wed 17:33]
+
+

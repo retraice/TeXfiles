@@ -1,0 +1,1433 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%NEED UPDATES:
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FOR COPYING: 
+
+@Comment article{,
+@Comment 	author = {\text{}},
+@Comment 	title = {\text{}},
+@Comment 	journal = {},
+@Comment 	year = {},
+@Comment 	number = {},
+@Comment 	date = {},
+@Comment 	urldate = {},
+@Comment 	note =  {date \url{} Retrieved date}
+@Comment }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%Retraice Segments:
+
+@Comment @comment{ReSeg1,
+@Comment 	author = {Retraice},
+@Comment 	title = {{Re1: Three Kinds of Intelligence}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2020/09/07},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re1} Retrieved 22nd Sep. 2020}
+@Comment }
+
+@Comment article-newspaper{ReSeg1,
+@Comment 	author = {Re1},
+@Comment 	title = {Three Kinds of Intelligence},
+@Comment     url = {https://www.retraice.com/segments/re1},
+@Comment     urldate = {2020/09/22},
+@Comment 	date = {2020/09/07}
+@Comment }
+        
+@Comment book{ReSeg1,
+@Comment 	author = {Re1},
+@Comment 	title = {Three Kinds of Intelligence},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2020/09/07},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re1} Retrieved 22nd Sep. 2020}
+@Comment }
+
+@article{ReSeg1,
+	author = {Re1},
+	title = {Three Kinds of Intelligence},
+	journal = {Retraice},
+    date = {2020-09-07},
+    url = {https://www.retraice.com/segments/re1},
+	urldate =  {2020-09-22}
+}
+            
+
+@article{ReSeg2,
+	author = {Retraice},
+	title = {{Re2: Tell the People, Tell Foes}},
+	journal = {retraice.com},
+	year = {2020/09/08},
+	note =  {\newline\url{https://www.retraice.com/segments/re2} Retrieved 22nd Sep. 2020}
+}
+
+
+@article{ReSeg3,
+	author = {Retraice},
+	title = {{Re3: Tell Everyone}},
+	journal = {retraice.com},
+	year = {2020/09/09},
+	note =  {\newline\url{https://www.retraice.com/segments/re3} Retrieved 22nd Sep. 2020}
+}
+
+
+@article{ReSeg4,
+	author = {Retraice},
+	title = {\text{Re4: Trust No One}},
+	journal = {retraice.com},
+	year = {2020/09/10},
+	note =  {\newline\url{https://www.retraice.com/segments/re4} Retrieved 22nd Sep. 2020}
+}
+
+@article{ReSeg5,
+	author = {Retraice},
+	title = {\text{Re5: Hints From Inside}},
+	journal = {retraice.com},
+	year = {2020/09/11},
+	note =  {\newline\url{https://www.retraice.com/segments/re5} Retrieved 22nd Sep. 2020}
+}
+
+@article{ReSeg6,
+	author = {Retraice},
+	title = {\text{Re6: Interface}},
+	journal = {retraice.com},
+	year = {2020/10/25},
+	note =  {\newline\url{https://www.retraice.com/segments/re6} Retrieved 26th Oct. 2020}
+}
+
+@article{ReSeg7,
+	author = {Retraice},
+	title = {\text{Re7: Artifactual Goals}},
+	journal = {retraice.com},
+	year = {2020/10/26},
+	note =  {\newline\url{https://www.retraice.com/segments/re7} Retrieved 27th Oct. 2020}
+}
+
+@article{ReSeg8,
+	author = {Retraice},
+	title = {\text{Re8: Strange Machines}},
+	journal = {retraice.com},
+	year = {2020/10/28},
+	note =  {\newline\url{https://www.retraice.com/segments/re8} Retrieved 29th Oct. 2020}
+}
+
+@article{ReSeg9,
+	author = {Retraice},
+	title = {\text{Re9: They Can See You}},
+	journal = {retraice.com},
+	year = {2020/10/31},
+	note =  {\newline\url{https://www.retraice.com/segments/re9} Retrieved 31st Oct. 2020}
+}
+
+@article{ReSeg10,
+	author = {Retraice},
+	title = {\text{Re10: Living to Guess Another Day}},
+	journal = {retraice.com},
+	year = {2020/11/02},
+	note =  {\newline\url{https://www.retraice.com/segments/re10} Retrieved 2nd Nov. 2020}
+}
+
+@article{ReSeg11,
+	author = {Retraice},
+	title = {\text{Re11: Travel}},
+	journal = {retraice.com},
+	year = {2020/11/04},
+	note =  {\newline\url{https://www.retraice.com/segments/re11} Retrieved 4th Nov. 2020}
+}
+
+@article{ReSeg12,
+	author = {Retraice},
+	title = {\text{Re12: Alien Troubles}},
+	journal = {retraice.com},
+	year = {2020/11/05},
+	note =  {\newline\url{https://www.retraice.com/segments/re12} Retrieved 5th Nov. 2020}
+}
+
+@article{ReSeg13,
+	author = {Retraice},
+	title = {\text{Re13: The Care Factor}},
+	journal = {retraice.com},
+	year = {2020/11/10},
+	note =  {\newline\url{https://www.retraice.com/segments/re13} Retrieved 10th Nov. 2020}
+}
+
+@article{ReSeg14,
+	author = {Retraice},
+	title = {\text{Re14: Omniscience in Three Domains}},
+	journal = {retraice.com},
+	year = {2020/11/13},
+	note =  {\newline\url{https://www.retraice.com/segments/re14} Retrieved 14th Nov. 2020}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@article{MaSeg1,
+	author = {Margin},
+	title = {\text{Ma1: Intro to Margin; QC'ing Retraice}},
+	journal = {retraice.com},
+	year = {2020/10/19},
+	note =  {\newline\url{https://www.retraice.com/segments/ma1} Retrieved 24th Oct. 2020}
+}
+
+
+
+@article{MaSeg2,
+	author = {Margin},
+	title = {\text{Ma2: Guessing Before Feedback}},
+	journal = {retraice.com},
+	year = {2020/10/20},
+	note =  {\newline\url{https://www.retraice.com/segments/ma2} Retrieved 24th Oct. 2020}
+}
+
+@article{MaSeg3,
+	author = {Margin},
+	title = {\text{Ma3: It’s Not About Love}},
+	journal = {retraice.com},
+	year = {2020/10/21},
+	note =  {\newline\url{https://www.retraice.com/segments/ma3} Retrieved 24th Oct. 2020}
+}
+
+
+@article{MaSeg4,
+	author = {Margin},
+	title = {\text{Ma4: Assumptions (A Wrestling Match)}},
+	journal = {retraice.com},
+	year = {2020/10/22},
+	note =  {\newline\url{https://www.retraice.com/segments/ma4} Retrieved 24th Oct. 2020}
+}
+
+@article{MaSeg5,
+	author = {Margin},
+	title = {\text{Ma5: Nobody Cares}},
+	journal = {retraice.com},
+	year = {2020/10/23},
+	note =  {\newline\url{https://www.retraice.com/segments/ma5} Retrieved 24th Oct. 2020}
+}
+
+@article{MaSeg6,
+	author = {Margin},
+	title = {\text{Ma6: The Back Foot}},
+	journal = {retraice.com},
+	year = {2020/10/25},
+	note =  {\newline\url{https://www.retraice.com/segments/ma6} Retrieved 26th Oct. 2020}
+}
+
+@article{MaSeg7,
+	author = {Margin},
+	title = {\text{Ma7: Reading and Writing}},
+	journal = {retraice.com},
+	year = {2020/10/26},
+	note =  {\newline\url{https://www.retraice.com/segments/ma7} Retrieved 27th Oct. 2020}
+}
+
+@article{MaSeg8,
+	author = {Margin},
+	title = {\text{Ma8: Revolution Before Evolution}},
+	journal = {retraice.com},
+	year = {2020/10/28},
+	note =  {\newline\url{https://www.retraice.com/segments/ma8} Retrieved 30th Oct. 2020}
+}
+
+@article{MaSeg9,
+	author = {Margin},
+	title = {\text{Ma9: A Tale of Two Banks}},
+	journal = {retraice.com},
+	year = {2020/10/31},
+	note =  {\newline\url{https://www.retraice.com/segments/ma9} Retrieved 1st Nov. 2020}
+}
+
+@article{MaSeg10,
+	author = {Margin},
+	title = {\text{Ma10: Month-End for October 2020 (Part 1)}},
+	journal = {retraice.com},
+	year = {2020/11/02},
+	note =  {\newline\url{https://www.retraice.com/segments/ma10} Retrieved 3rd Nov. 2020}
+}
+
+@article{MaSeg11,
+	author = {Margin},
+	title = {\text{Ma11: Month-End for October 2020 (Part 2)}},
+	journal = {retraice.com},
+	year = {2020/11/04},
+	note =  {\newline\url{https://www.retraice.com/segments/ma11} Retrieved 4th Nov. 2020}
+}
+
+@article{MaSeg12,
+	author = {Margin},
+	title = {\text{Ma12: Quitting Your Day Job}},
+	journal = {retraice.com},
+	year = {2020/11/05},
+	note =  {\newline\url{https://www.retraice.com/segments/ma12} Retrieved 5th Nov. 2020}
+}
+
+@article{MaSeg13,
+	author = {Margin},
+	title = {\text{Ma13: Architecture Is a Hypothesis}},
+	journal = {retraice.com},
+	year = {2020/11/10},
+	note =  {\newline\url{https://www.retraice.com/segments/ma13} Retrieved 10th Nov. 2020}
+}
+
+@article{MaSeg14,
+	author = {Margin},
+	title = {\text{Ma14: Dilemmas of Automation}},
+	journal = {retraice.com},
+	year = {2020/11/13},
+	note =  {\newline\url{https://www.retraice.com/segments/ma14} Retrieved 14th Nov. 2020}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%automatically generated (but manually copied from SCRIPTS-OUTPUT
+
+
+
+@article{MaSeg15,
+	author = {Margin},
+	title = {\text{Ma15: Two Threats}},
+	journal = {retraice.com},
+	year = {2020/11/25},
+	note =  {\newline\url{https://www.retraice.com/segments/ma15} Retrieved 28th Feb. 2022}
+}
+
+@article{ReSeg15,
+	author = {Retraice},
+	title = {\text{Re15: Trust and Sources}},
+	journal = {retraice.com},
+	year = {2020/11/25},
+	note =  {\newline\url{https://www.retraice.com/segments/re15} Retrieved 28th Feb. 2022}
+}
+
+@article{MaSeg16,
+	author = {Margin},
+	title = {\text{Ma16: November 2020 to February 2022}},
+	journal = {retraice.com},
+	year = {2022/03/02},
+	note =  {\newline\url{https://www.retraice.com/segments/ma16} Retrieved 5th Mar. 2022}
+}
+
+@article{ReSeg16,
+	author = {Retraice},
+	title = {\text{Re16: Trust is a Response}},
+	journal = {retraice.com},
+	year = {2022/03/02},
+	note =  {\newline\url{https://www.retraice.com/segments/re16} Retrieved 6th Mar. 2022}
+}
+
+@article{ReSeg17,
+        author = {Retraice},
+        title = {\text{Re17: Hypotheses to Eleven}},
+        journal = {retraice.com},
+        year = {2022/03/07},
+        note =  {\newline\url{https://www.retraice.com/segments/re17} Retrieved 17th Mar. 2022}
+}
+
+@article{ReSeg18,
+        author = {Retraice},
+        title = {\text{Re18: Plan of Attack}},
+        journal = {retraice.com},
+        year = {2022/03/07},
+        note =  {\newline\url{https://www.retraice.com/segments/re18} Retrieved 25th Mar. 2022}
+}
+
+
+@article{MaSeg17,
+        author = {Margin},
+        title = {\text{Ma17: Addendum---Thinking and Computing}},
+        journal = {retraice.com},
+        year = {2022/03/07},
+        note =  {\newline\url{https://www.retraice.com/segments/ma17} Retrieved 1st Apr. 2022}
+}
+
+@article{MaSeg18,
+        author = {Margin},
+        title = {\text{Ma18: The Website}},
+        journal = {retraice.com},
+        year = {2022/10/10},
+        note =  {\newline\url{https://www.retraice.com/segments/ma18} Retrieved 11th Oct. 2022}
+}
+
+@article{ReSeg19,
+        author = {Retraice},
+        title = {\text{Re19: Nature Is Not F-ing Around}},
+        journal = {retraice.com},
+        year = {2022/10/10},
+        note =  {\newline\url{https://www.retraice.com/segments/re19} Retrieved 12th Oct. 2022}
+}
+
+@article{MaSeg19,
+        author = {Margin},
+        title = {\text{Ma19: The Toolchain}},
+        journal = {retraice.com},
+        year = {2022/10/13},
+        note =  {\newline\url{https://www.retraice.com/segments/ma19} Retrieved 13th Oct. 2022}
+}
+
+
+@article{MaSeg20,
+        author = {Margin},
+        title = {\text{Ma20: Dreams and Delusions}},
+        journal = {retraice.com},
+        year = {2022/10/13},
+        note =  {\newline\url{https://www.retraice.com/segments/ma20} Retrieved 14th Oct. 2022}
+}
+
+@article{MaSeg21,
+        author = {Margin},
+        title = {\text{Ma21: Delusion Hunting 1 - Content Delivery}},
+        journal = {retraice.com},
+        year = {2022/10/14},
+        note =  {\newline\url{https://www.retraice.com/segments/ma21} Retrieved 15th Oct. 2022}
+}
+
+
+@article{MaSeg22,
+        author = {Margin},
+        title = {\text{Ma22: Delusion Hunting 2 - The Rest}},
+        journal = {retraice.com},
+        year = {2022/10/15},
+        note =  {\newline\url{https://www.retraice.com/segments/ma22} Retrieved 16th Oct. 2022}
+}
+
+@article{ReSeg20,
+        author = {Retraice},
+        title = {\text{Re20: The Deadline Problem}},
+        journal = {retraice.com},
+        year = {2022/10/16},
+        note =  {\newline\url{https://www.retraice.com/segments/re20} Retrieved 17th Oct. 2022}
+}
+
+
+@article{ReSeg21,
+        author = {Retraice},
+        title = {\text{Re21: Time's Up}},
+        journal = {retraice.com},
+        year = {2022/10/16},
+        note =  {\newline\url{https://www.retraice.com/segments/re21} Retrieved 18th Oct. 2022}
+}
+
+@article{ReSeg22,
+        author = {Retraice},
+        title = {\text{Re22: Computer Control}},
+        journal = {retraice.com},
+        year = {2022/10/19},
+        note =  {\newline\url{https://www.retraice.com/segments/re22} Retrieved 19th Oct. 2022}
+}
+
+@article{ReSeg23,
+        author = {Retraice},
+        title = {\text{Re23: You Need a World Model}},
+        journal = {retraice.com},
+        year = {2022/10/19},
+        note =  {\newline\url{https://www.retraice.com/segments/re23} Retrieved 20th Oct. 2022}
+}
+
+@article{ReSeg24,
+        author = {Retraice},
+        title = {\text{Re24: Now, Anything Goes}},
+        journal = {retraice.com},
+        year = {2022/10/20},
+        note =  {\newline\url{https://www.retraice.com/segments/re24} Retrieved 21st Oct. 2022}
+}
+
+@article{ReSeg25,
+        author = {Retraice},
+        title = {\text{Re25: Reading The New York Times and Fox News}},
+        journal = {retraice.com},
+        year = {2022/10/21},
+        note =  {\newline\url{https://www.retraice.com/segments/re25} Retrieved 22nd Oct. 2022}
+}
+
+@article{ReSeg26,
+        author = {Retraice},
+        title = {\text{Re26: Searching The New York Times and Fox News}},
+        journal = {retraice.com},
+        year = {2022/10/22},
+        note =  {\newline\url{https://www.retraice.com/segments/re26} Retrieved 23rd Oct. 2022}
+}
+
+@article{ReSeg27,
+        author = {Retraice},
+        title = {\text{Re27: Now That's a World Model - WM4}},
+        journal = {retraice.com},
+        year = {2022/10/23},
+        note =  {\newline\url{https://www.retraice.com/segments/re27} Retrieved 24th Oct. 2022}
+}
+
+
+@article{ReSeg28,
+        author = {Retraice},
+        title = {\text{Re28: What's Good? RTFM}},
+        journal = {retraice.com},
+        year = {2022/10/24},
+        note =  {\newline\url{https://www.retraice.com/segments/re28} Retrieved 25th Oct. 2022}
+}
+
+@article{ReSeg29,
+        author = {Retraice},
+        title = {\text{Re29: The News and World Model 4}},
+        journal = {retraice.com},
+        year = {2022/10/25},
+        note =  {\newline\url{https://www.retraice.com/segments/re29} Retrieved 26th Oct. 2022}
+}
+
+@article{ReSeg30,
+        author = {Retraice},
+        title = {\text{Re30: AI Progress and Surrender}},
+        journal = {retraice.com},
+        year = {2022/10/26},
+        note =  {\newline\url{https://www.retraice.com/segments/re30} Retrieved 27th Oct. 2022}
+}
+
+@article{ReSeg31,
+        author = {Retraice},
+        title = {\text{Re31: What's Happening That Matters - WM5}},
+        journal = {retraice.com},
+        year = {2022/10/27},
+        note =  {\newline\url{https://www.retraice.com/segments/re31} Retrieved 28th Oct. 2022}
+}
+
+@article{ReSeg32,
+        author = {Retraice},
+        title = {\text{Re32: AI News}},
+        journal = {retraice.com},
+        year = {2022/10/27},
+        note =  {\newline\url{https://www.retraice.com/segments/re32} Retrieved 31st Oct. 2022}
+}    
+
+@article{ReSeg33,
+	author = {Retraice},
+	title = {\text{Re33: Outsiders, Power and Waste}},
+	journal = {retraice.com},
+	year = {2022/10/28},
+	note =  {\newline\url{https://www.retraice.com/segments/re33} Retrieved 2nd Nov. 2022}
+}
+
+
+@article{ReSeg34,
+	author = {Retraice},
+	title = {\text{Re34: Opinions}},
+	journal = {retraice.com},
+	year = {2022/10/29},
+	note =  {\newline\url{https://www.retraice.com/segments/re34} Retrieved 3rd Nov. 2022}
+}
+
+
+@article{ReSeg35,
+	author = {Retraice},
+	title = {\text{Re35: Follow-ups to Re17, Re18, Re33}},
+	journal = {retraice.com},
+	year = {2022/10/30},
+	note =  {\newline\url{https://www.retraice.com/segments/re35} Retrieved 3rd Nov. 2022}
+}
+
+
+
+
+
+
+% temp
+
+    
+
+
+
+
+
+@article{ReSeg36,
+	author = {Retraice},
+	title = {\text{Re36: Notes on Conspiracy}},
+	journal = {retraice.com},
+	year = {2022/10/31},
+	note =  {\newline\url{https://www.retraice.com/segments/re36} Retrieved 4th Nov. 2022}
+}
+
+
+@article{ReSeg37,
+	author = {Retraice},
+	title = {\text{Re37: Notes on Solutions to Conspiracy}},
+	journal = {retraice.com},
+	year = {2022/11/01},
+	note =  {\newline\url{https://www.retraice.com/segments/re37} Retrieved 4th Nov. 2022}
+}
+
+
+@article{ReSeg38,
+	author = {Retraice},
+	title = {\text{Re38: Follow up to `Re33: Outsiders, Power and Waste'}},
+	journal = {retraice.com},
+	year = {2022/11/02},
+	note =  {\newline\url{https://www.retraice.com/segments/re38} Retrieved 5th Nov. 2022}
+}
+
+
+@article{ReSeg39,
+	author = {Retraice},
+	title = {\text{Re39: News --- Space, Technology, Death}},
+	journal = {retraice.com},
+	year = {2022/11/03},
+	note =  {\newline\url{https://www.retraice.com/segments/re39} Retrieved 6th Nov. 2022}
+}
+
+
+@article{ReSeg40,
+	author = {Retraice},
+	title = {\text{Re40: News --- China, Civil War, Environments}},
+	journal = {retraice.com},
+	year = {2022/11/04},
+	note =  {\newline\url{https://www.retraice.com/segments/re40} Retrieved 7th Nov. 2022}
+}
+
+
+@article{ReSeg41,
+	author = {Retraice},
+	title = {\text{Re41: News --- Betterment, Intelligence, Darkness}},
+	journal = {retraice.com},
+	year = {2022/11/05},
+	note =  {\newline\url{https://www.retraice.com/segments/re41} Retrieved 8th Nov. 2022}
+}
+
+
+@article{ReSeg42,
+	author = {Retraice},
+	title = {\text{Re42: News --- Wealth, Wildcards, Computers}},
+	journal = {retraice.com},
+	year = {2022/11/06},
+	note =  {\newline\url{https://www.retraice.com/segments/re42} Retrieved 8th Nov. 2022}
+}
+
+
+@article{ReSeg43,
+	author = {Retraice},
+	title = {\text{Re43: The Midterms --- Part 1}},
+	journal = {retraice.com},
+	year = {2022/11/07},
+	note =  {\newline\url{https://www.retraice.com/segments/re43} Retrieved 9th Nov. 2022}
+}
+
+
+@article{ReSeg44,
+	author = {Retraice},
+	title = {\text{Re44: We Can't Vote and Can't Think.}},
+	journal = {retraice.com},
+	year = {2022/11/08},
+	note =  {\newline\url{https://www.retraice.com/segments/re44} Retrieved 10th Nov. 2022}
+}
+
+
+@article{ReSeg45,
+	author = {Retraice},
+	title = {\text{Re45: Liberty and Equality Mean What?}},
+	journal = {retraice.com},
+	year = {2022/11/09},
+	note =  {\newline\url{https://www.retraice.com/segments/re45} Retrieved 11th Nov. 2022}
+}
+
+
+@article{ReSeg46,
+	author = {Retraice},
+	title = {\text{Re46: Bad Faith and the Bad Life}},
+	journal = {retraice.com},
+	year = {2022/11/10},
+	note =  {\newline\url{https://www.retraice.com/segments/re46} Retrieved 13th Nov. 2022}
+}
+
+
+@article{ReSeg47,
+	author = {Retraice},
+	title = {\text{Re47: Meanwhile, in China}},
+	journal = {retraice.com},
+	year = {2022/11/11},
+	note =  {\newline\url{https://www.retraice.com/segments/re47} Retrieved 14th Nov. 2022}
+}
+
+
+@article{ReSeg48,
+	author = {Retraice},
+	title = {\text{Re48: From Drugs to Mao to Money}},
+	journal = {retraice.com},
+	year = {2022/11/12},
+	note =  {\newline\url{https://www.retraice.com/segments/re48} Retrieved 14th Nov. 2022}
+}
+
+
+@article{ReSeg49,
+	author = {Retraice},
+	title = {\text{Re49: China is Not F-ing Around}},
+	journal = {retraice.com},
+	year = {2022/11/13},
+	note =  {\newline\url{https://www.retraice.com/segments/re49} Retrieved 15th Nov. 2022}
+}
+
+
+@article{ReSeg50,
+	author = {Retraice},
+	title = {\text{Re50: What About AI Though? (WAAIT)}},
+	journal = {retraice.com},
+	year = {2022/11/14},
+	note =  {\newline\url{https://www.retraice.com/segments/re50} Retrieved 15th Nov. 2022}
+}
+
+
+@article{ReSeg51,
+	author = {Retraice},
+	title = {\text{Re51: Sprinkle Some AI on It}},
+	journal = {retraice.com},
+	year = {2022/11/15},
+	note =  {\newline\url{https://www.retraice.com/segments/re51} Retrieved 16th Nov. 2022}
+}
+
+
+@article{ReSeg52,
+	author = {Retraice},
+	title = {\text{Re52: Big Questions About AI}},
+	journal = {retraice.com},
+	year = {2022/11/16},
+	note =  {\newline\url{https://www.retraice.com/segments/re52} Retrieved 17th Nov. 2022}
+}
+
+
+@article{ReSeg53,
+	author = {Retraice},
+	title = {\text{Re53: Big Questions About Strategic Intelligence}},
+	journal = {retraice.com},
+	year = {2022/11/17},
+	note =  {\newline\url{https://www.retraice.com/segments/re53} Retrieved 18th Nov. 2022}
+}
+
+
+@article{ReSeg54,
+	author = {Retraice},
+	title = {\text{Re54: Implications and Endgames}},
+	journal = {retraice.com},
+	year = {2022/11/18},
+	note =  {\newline\url{https://www.retraice.com/segments/re54} Retrieved 19th Nov. 2022}
+}
+
+
+@article{ReSeg55,
+	author = {Retraice},
+	title = {\text{Re55: The Computer Control Game}},
+	journal = {retraice.com},
+	year = {2022/11/19},
+	note =  {\newline\url{https://www.retraice.com/segments/re55} Retrieved 20th Nov. 2022}
+}
+
+
+@article{ReSeg56,
+	author = {Retraice},
+	title = {\text{Re56: A Valuable Brick: `Artificial Intelligence: A Modern Approach' 4th ed.}},
+	journal = {retraice.com},
+	year = {2022/11/20},
+	note =  {\newline\url{https://www.retraice.com/segments/re56} Retrieved 21st Nov. 2022}
+}
+
+% AIMA4e %%%%%
+@article{AIMA4e,
+	author = {Retraice},
+	title = {\text{AIMA4e Notes}},
+	journal = {retraice.com},
+	year = {2022},
+	note =  {\url{https://aima4e.retraice.com}
+    	\EatDot},}
+}
+%%%%%%%%%%%%%%    
+
+@article{ReSeg57,
+	author = {Retraice},
+	title = {\text{Re57: AI, Agents, Problem-solving, Searching, Environments, Games (AIMA4e chpts. 1--6)}},
+	journal = {retraice.com},
+	year = {2022/11/21},
+	note =  {\newline\url{https://www.retraice.com/segments/re57} Retrieved 22nd Nov. 2022}
+}
+
+
+@article{ReSeg58,
+	author = {Retraice},
+	title = {\text{Re58: Thinking and Uncertainty (AIMA4e chpts. 7--18)}},
+	journal = {retraice.com},
+	year = {2022/11/22},
+	note =  {\newline\url{https://www.retraice.com/segments/re58} Retrieved 23rd Nov. 2022}
+}
+
+
+@article{ReSeg59,
+	author = {Retraice},
+	title = {\text{Re59: Learning, Interacting, Conclusions (AIMA4e chpts. 19--28)}},
+	journal = {retraice.com},
+	year = {2022/11/23},
+	note =  {\newline\url{https://www.retraice.com/segments/re59} Retrieved 24th Nov. 2022}
+}
+
+
+@article{ReSeg60,
+	author = {Retraice},
+	title = {\text{Re60: Complexity, Linear Algebra, Probability (AIMA4e Appendix A)}},
+	journal = {retraice.com},
+	year = {2022/11/24},
+	note =  {\newline\url{https://www.retraice.com/segments/re60} Retrieved 25th Nov. 2022}
+}
+
+
+@article{ReSeg61,
+	author = {Retraice},
+	title = {\text{Re61: Formal Languages, Pseudocode (AIMA4e Appendix B)}},
+	journal = {retraice.com},
+	year = {2022/11/25},
+	note =  {\newline\url{https://www.retraice.com/segments/re61} Retrieved 26th Nov. 2022}
+}
+
+
+@article{ReSeg62,
+	author = {Retraice},
+	title = {\text{Re62: AIMA4e in 5 Minutes}},
+	journal = {retraice.com},
+	year = {2022/11/26},
+	note =  {\newline\url{https://www.retraice.com/segments/re62} Retrieved 27th Nov. 2022}
+}
+
+
+@article{ReSeg63,
+	author = {Retraice},
+	title = {\text{Re63: Seventeen Reasons to Learn AI}},
+	journal = {retraice.com},
+	year = {2022/11/27},
+	note =  {\newline\url{https://www.retraice.com/segments/re63} Retrieved Monday Nov. 2022}
+}
+
+
+@article{ReSeg64,
+	author = {Retraice},
+	title = {\text{Re64: Math, Code and Deadlines (AIMA4e planning)}},
+	journal = {retraice.com},
+	year = {2022/11/28},
+	note =  {\newline\url{https://www.retraice.com/segments/re64} Retrieved 29th Nov. 2022}
+}
+
+
+@article{ReSeg65,
+	author = {Retraice},
+	title = {\text{Re65: TABLE-DRIVEN-AGENT Part 1 (AIMA4e p. 48)}},
+	journal = {retraice.com},
+	year = {2022/11/29},
+	note =  {\newline\url{https://www.retraice.com/segments/re65} Retrieved 30th Nov. 2022}
+}
+
+
+@article{ReSeg66,
+	author = {Retraice},
+	title = {\text{Re66: TABLE-DRIVEN-AGENT Part 2 (AIMA4e p. 48)}},
+	journal = {retraice.com},
+	year = {2022/11/30},
+	note =  {\newline\url{https://www.retraice.com/segments/re66} Retrieved 1st Dec. 2022}
+}
+
+
+@article{ReSeg67,
+	author = {Retraice},
+	title = {\text{Re67: TABLE-DRIVEN-AGENT Part 3 (AIMA4e p. 48)}},
+	journal = {retraice.com},
+	year = {2022/12/01},
+	note =  {\newline\url{https://www.retraice.com/segments/re67} Retrieved 2nd Dec. 2022}
+}
+
+
+@article{ReSeg68,
+	author = {Retraice},
+	title = {\text{Re68: TABLE-DRIVEN-AGENT Part 4 (AIMA4e p. 48)}},
+	journal = {retraice.com},
+	year = {2022/12/02},
+	note =  {\newline\url{https://www.retraice.com/segments/re68} Retrieved 3rd Dec. 2022}
+}
+
+
+@article{ReSeg69,
+	author = {Retraice},
+	title = {\text{Re69: TABLE-DRIVEN-AGENT Part 5 (ECMP and AIMA4e p. 48)}},
+	journal = {retraice.com},
+	year = {2022/12/03},
+	note =  {\newline\url{https://www.retraice.com/segments/re69} Retrieved 4th Dec. 2022}
+}    
+
+@article{ReSeg70,
+	author = {Retraice},
+	title = {\text{Re70: Gradients and Partial Derivatives Part 1 (AIMA4e pp. 119--122)}},
+	journal = {retraice.com},
+	year = {2022/12/04},
+	note =  {\newline\url{https://www.retraice.com/segments/re70} Retrieved 5th Dec. 2022}
+}
+
+
+@article{ReSeg71,
+	author = {Retraice},
+	title = {\text{Re71: Gradients and Partial Derivatives Part 2 (AIMA4e pp. 119–122)}},
+	journal = {retraice.com},
+	year = {2022/12/05},
+	note =  {\newline\url{https://www.retraice.com/segments/re71} Retrieved 6th Dec. 2022}
+}
+
+
+@article{ReSeg72,
+	author = {Retraice},
+	title = {\text{Re72: Gradients and Partial Derivatives Part 3 (AIMA4e pp. 119--122)}},
+	journal = {retraice.com},
+	year = {2022/12/06},
+	note =  {\newline\url{https://www.retraice.com/segments/re72} Retrieved 7th Dec. 2022}
+}
+
+
+@article{ReSeg73,
+	author = {Retraice},
+	title = {\text{Re73: Gradients and Partial Derivatives Part 4 (AIMA4e pp. 119--122)}},
+	journal = {retraice.com},
+	year = {2022/12/07},
+	note =  {\newline\url{https://www.retraice.com/segments/re73} Retrieved 8th Dec. 2022}
+}
+
+
+@article{ReSeg74,
+	author = {Retraice},
+	title = {\text{Re74: Gradients and Partial Derivatives Part 5 (AIMA4e pp. 119--122)}},
+	journal = {retraice.com},
+	year = {2022/12/08},
+	note =  {\newline\url{https://www.retraice.com/segments/re74} Retrieved 9th Dec. 2022}
+}
+
+
+@article{ReSeg75,
+	author = {Retraice},
+	title = {\text{Re75: Gradients and Partial Derivatives Part 6 (AIMA4e pp. 119–122)}},
+	journal = {retraice.com},
+	year = {2022/12/09},
+	note =  {\newline\url{https://www.retraice.com/segments/re75} Retrieved 10th Dec. 2022}
+}
+
+
+@article{ReSeg76,
+	author = {Retraice},
+	title = {\text{Re76: Gradients and Partial Derivatives Part 7 (AIMA4e pp. 119–122)}},
+	journal = {retraice.com},
+	year = {2022/12/10},
+	note =  {\newline\url{https://www.retraice.com/segments/re76} Retrieved 11th Dec. 2022}
+}
+
+
+@article{ReSeg77,
+	author = {Retraice},
+	title = {\text{Re77: Recap of TABLE-DRIVEN-AGENT (AIMA4e p. 48)}},
+	journal = {retraice.com},
+	year = {2022/12/11},
+	note =  {\newline\url{https://www.retraice.com/segments/re77} Retrieved 12th Dec. 2022}
+}
+
+
+@article{ReSeg78,
+	author = {Retraice},
+	title = {\text{Re78: Recap of Gradients and Partial Derivatives (AIMA4e pp. 119–122)}},
+	journal = {retraice.com},
+	year = {2022/12/11},
+	note =  {\newline\url{https://www.retraice.com/segments/re78} Retrieved 12th Dec. 2022}
+}
+
+
+@article{ReSeg79,
+	author = {Retraice},
+	title = {\text{Re79: Recap of Strategic Intelligence (Re1--Re5)}},
+	journal = {retraice.com},
+	year = {2022/12/12},
+	note =  {\newline\url{https://www.retraice.com/segments/re79} Retrieved 13th Dec. 2022}
+}
+
+
+@article{ReSeg80,
+	author = {Retraice},
+	title = {\text{Re80: Recap of Artificial Intelligence (Re6--Re9)}},
+	journal = {retraice.com},
+	year = {2022/12/13},
+	note =  {\newline\url{https://www.retraice.com/segments/re80} Retrieved 14th Dec. 2022}
+}
+
+
+@article{ReSeg81,
+	author = {Retraice},
+	title = {\text{Re81: Recap of Natural Intelligence (Re10–Re13)}},
+	journal = {retraice.com},
+	year = {2022/12/14},
+	note =  {\newline\url{https://www.retraice.com/segments/re81} Retrieved 15th Dec. 2022}
+}
+
+
+@article{ReSeg82,
+	author = {Retraice},
+	title = {\text{Re82: What is a problem? (BEST-FIRST-SEARCH Part 1, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/14},
+	note =  {\newline\url{https://www.retraice.com/segments/re82} Retrieved 15th Dec. 2022}
+}
+
+
+@article{ReSeg83,
+	author = {Retraice},
+	title = {\text{Re83: A Problem Instantiated (BEST-FIRST-SEARCH Part 2, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/15},
+	note =  {\newline\url{https://www.retraice.com/segments/re83} Retrieved 16th Dec. 2022}
+}
+
+
+@article{ReSeg84,
+	author = {Retraice},
+	title = {\text{Re84: A Node Instantiated (BEST-FIRST-SEARCH Part 3, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/16},
+	note =  {\newline\url{https://www.retraice.com/segments/re84} Retrieved 17th Dec. 2022}
+}
+
+
+@article{ReSeg85,
+	author = {Retraice},
+	title = {\text{Re85: The Details (BEST-FIRST-SEARCH Part 4, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/17},
+	note =  {\newline\url{https://www.retraice.com/segments/re85} Retrieved 18th Dec. 2022}
+}
+
+
+@article{ReSeg86,
+	author = {Retraice},
+	title = {\text{Re86: Code Reading (BEST-FIRST-SEARCH Part 5, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/18},
+	note =  {\newline\url{https://www.retraice.com/segments/re86} Retrieved 19th Dec. 2022}
+}
+
+
+@article{ReSeg87,
+	author = {Retraice},
+	title = {\text{Re87: The multimap Function, Part A (BEST-FIRST-SEARCH Part 6, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/19},
+	note =  {\newline\url{https://www.retraice.com/segments/re87} Retrieved 20th Dec. 2022}
+}
+
+
+@article{ReSeg88,
+	author = {Retraice},
+	title = {\text{Re88: The multimap Function, Part B (BEST-FIRST-SEARCH Part 7, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/20},
+	note =  {\newline\url{https://www.retraice.com/segments/re88} Retrieved 21st Dec. 2022}
+}
+
+
+@article{ReSeg89,
+	author = {Retraice},
+	title = {\text{Re89: The multimap Function, Part C (BEST-FIRST-SEARCH Part 8, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/21},
+	note =  {\newline\url{https://www.retraice.com/segments/re89} Retrieved 22nd Dec. 2022}
+}
+
+
+@article{ReSeg90,
+	author = {Retraice},
+	title = {\text{Re90: The Map Class (BEST-FIRST-SEARCH Part 9, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/22},
+	note =  {\newline\url{https://www.retraice.com/segments/re90} Retrieved 23rd Dec. 2022}
+}
+
+
+@article{ReSeg91,
+	author = {Retraice},
+	title = {\text{Re91: The PriorityQueue Class, Part A (BEST-FIRST-SEARCH Part 10, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/22},
+	note =  {\newline\url{https://www.retraice.com/segments/re91} Retrieved 24th Dec. 2022}
+}
+
+
+@article{ReSeg92,
+	author = {Retraice},
+	title = {\text{Re92: The PriorityQueue Class, Part B (BEST-FIRST-SEARCH Part 11, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/23},
+	note =  {\newline\url{https://www.retraice.com/segments/re92} Retrieved 24th Dec. 2022}
+}
+
+
+@article{ReSeg93,
+	author = {Retraice},
+	title = {\text{Re93: The PriorityQueue Class, Part C (BEST-FIRST-SEARCH Part 12, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/24},
+	note =  {\newline\url{https://www.retraice.com/segments/re93} Retrieved 25th Dec. 2022}
+}
+
+
+@article{ReSeg94,
+	author = {Retraice},
+	title = {\text{Re94: The PriorityQueue Class, Part D (BEST-FIRST-SEARCH Part 13, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/25},
+	note =  {\newline\url{https://www.retraice.com/segments/re94} Retrieved 26th Dec. 2022}
+}
+
+
+@article{ReSeg95,
+	author = {Retraice},
+	title = {\text{Re95: The PriorityQueue Class, Part E (BEST-FIRST-SEARCH Part 14, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/26},
+	note =  {\newline\url{https://www.retraice.com/segments/re95} Retrieved 27th Dec. 2022}
+}
+
+
+@article{ReSeg96,
+	author = {Retraice},
+	title = {\text{Re96: News of ChatGPT, Part 1}},
+	journal = {retraice.com},
+	year = {2022/12/26},
+	note =  {\newline\url{https://www.retraice.com/segments/re96} Retrieved 27th Dec. 2022}
+}
+
+
+@article{ReSeg97,
+	author = {Retraice},
+	title = {\text{Re97: Recap of BFS (BEST-FIRST-SEARCH Part 15, AIMA4e pp. 73–74)}},
+	journal = {retraice.com},
+	year = {2022/12/27},
+	note =  {\newline\url{https://www.retraice.com/segments/re97} Retrieved 28th Dec. 2022}
+}
+
+
+@article{ReSeg98,
+	author = {Retraice},
+	title = {\text{Re98: News of ChatGPT, Part 2}},
+	journal = {retraice.com},
+	year = {2022/12/27},
+	note =  {\newline\url{https://www.retraice.com/segments/re98} Retrieved 28th Dec. 2022}
+}
+
+
+@article{ReSeg99,
+	author = {Retraice},
+	title = {\text{Re99: Math and Code, Bottom-Up and Top-Down}},
+	journal = {retraice.com},
+	year = {2022/12/28},
+	note =  {\newline\url{https://www.retraice.com/segments/re99} Retrieved 29th Dec. 2022}
+}
+
+
+@comment @comment{ReSeg100,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re100: News of ChatGPT, Part 3}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2022/12/29},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re100} Retrieved 30th Dec. 2022}
+@Comment }
+
+@book{ReSeg100,
+	author = {Re100},
+	title = {News of ChatGPT, Part 3},
+	publisher = {retraice.com},
+	year = {2022/12/29},
+	note =  {\newline\url{https://www.retraice.com/segments/re100} Retrieved 30th Dec. 2022}
+}    
+
+
+@comment @comment{ReSeg101,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re101: News of ChatGPT, Part 4}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2022/12/30},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re101} Retrieved 31st Dec. 2022}
+@Comment }
+
+
+@book{ReSeg101,
+	author = {Re101},
+	title = {News of ChatGPT, Part 4},
+	publisher = {retraice.com},
+	year = {2022/12/30},
+	note =  {\newline\url{https://www.retraice.com/segments/re101} Retrieved 31st Dec. 2022}
+}
+
+
+@comment @comment{ReSeg102,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re102: AI For What}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2022/12/31},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re102} Retrieved 1st Jan. 2023}
+@Comment }
+
+@book{ReSeg102,
+	author = {Re102},
+	title = {AI For What},
+	publisher = {retraice.com},
+	year = {2022/12/31},
+	note =  {\newline\url{https://www.retraice.com/segments/re102} Retrieved 1st Jan. 2023}
+}
+
+
+@comment @comment{ReSeg103,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re103: Dimensions of Intelligent Agents (Day 1, AIMA4e Chpt. 1)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/01},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re103} Retrieved 2nd Jan. 2023}
+@Comment }
+
+@book{ReSeg103,
+	author = {Re103},
+	title = {Dimensions of Intelligent Agents (Day 1, AIMA4e Chpt. 1)},
+	publisher = {retraice.com},
+	year = {2023/01/01},
+	note =  {\newline\url{https://www.retraice.com/segments/re103} Retrieved 2nd Jan. 2023}
+}
+    
+@comment @comment{ReSeg104,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re104: Agent Functions, Agent Programs, Task Environments (Day 2, AIMA4e Chpt. 2)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/02},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re104} Retrieved 3rd Jan. 2023}
+@Comment }
+
+@book{ReSeg104,
+	author = {Re104},
+	title = {Agent Functions, Agent Programs, Task Environments (Day 2, AIMA4e Chpt. 2)},
+	publisher = {retraice.com},
+	year = {2023/01/02},
+	note =  {\newline\url{https://www.retraice.com/segments/re104} Retrieved 3rd Jan. 2023}
+}
+    
+@comment @comment{ReSeg105,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re105: Solve or Be Solved (Day 3, AIMA4e Chpt. 3)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/03},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re105} Retrieved 4th Jan. 2023}
+@Comment }
+
+@book{ReSeg105,
+	author = {Re105},
+	title = {Solve or Be Solved (Day 3, AIMA4e Chpt. 3)},
+	publisher = {retraice.com},
+	year = {2023/01/03},
+	note =  {\newline\url{https://www.retraice.com/segments/re105} Retrieved 4th Jan. 2023}
+}    
+
+@comment @comment{ReSeg106,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re106: Elitism, Culling, Coercion, Adversaries, Strategy (Day 4, AIMA4e Chpt. 4)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/04},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re106} Retrieved 5th Jan. 2023}
+@Comment }
+
+
+@book{ReSeg106,
+	author = {Re106},
+	title = {Elitism, Culling, Coercion, Adversaries, Strategy (Day 4, AIMA4e Chpt. 4)},
+	publisher = {retraice.com},
+	year = {2023/01/04},
+	note =  {\newline\url{https://www.retraice.com/segments/re106} Retrieved 5th Jan. 2023}
+}
+
+
+
+
+@comment @comment{ReSeg107,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re107: Three Kinds of AI (Day 5, AIMA4e Chpt. 5)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/05},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re107} Retrieved 6th Jan. 2023}
+@Comment }
+
+
+@book{ReSeg107,
+	author = {Re107},
+	title = {Three Kinds of AI (Day 5, AIMA4e Chpt. 5)},
+	publisher = {retraice.com},
+	year = {2023/01/05},
+	note =  {\newline\url{https://www.retraice.com/segments/re107} Retrieved 6th Jan. 2023}
+}
+
+    
+@comment @comment{ReSeg108,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re108: Contributors and Controllers (Day 6, AIMA4e Chpt. 6)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/06},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re108} Retrieved 7th Jan. 2023}
+@Comment }
+
+@book{ReSeg108,
+	author = {Re108},
+	title = {Contributors and Controllers (Day 6, AIMA4e Chpt. 6)},
+	publisher = {retraice.com},
+	year = {2023/01/06},
+	note =  {\newline\url{https://www.retraice.com/segments/re108} Retrieved 7th Jan. 2023}
+}    
+
+@comment @comment{ReSeg109,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re109: TikTok (app), Tik-Tok (novel), and Low-Power Mode (Day 7, AIMA4e Chpt. 7)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/07},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re109} Retrieved 8th Jan. 2023}
+@Comment }
+
+@book{ReSeg109,
+	author = {Re109},
+	title = {TikTok (app), Tik-Tok (novel), and Low-Power Mode (Day 7, AIMA4e Chpt. 7)},
+	publisher = {retraice.com},
+	year = {2023-01-07},
+    date = {2023-01-07},
+	note =  {\newline\url{https://www.retraice.com/segments/re109} Retrieved 8th Jan. 2023}
+}
+
+    
+@Comment @comment{,
+@Comment   OPTkey =       {},
+@Comment   OPTauthor =    {},
+@Comment   OPTtitle =     {},
+@Comment   OPThowpublished = {},
+@Comment   OPTmonth =     {},
+@Comment   OPTyear =      {},
+@Comment   OPTnote =      {},
+@Comment   OPTannote =    {}
+@Comment }
+
+@comment @comment{ReSeg110,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re110: TikTok for Addicting the World's Kids}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/08},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re110} Retrieved 9th Jan. 2023}
+@Comment }
+
+@book{ReSeg110,
+	author = {Re110},
+	title = {TikTok for Addicting the World's Kids},
+	publisher = {retraice.com},
+	year = {2023/01/08},
+	note =  {\newline\url{https://www.retraice.com/segments/re110} Retrieved 9th Jan. 2023}
+}
+
+@comment @comment{ReSeg111,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re111: AI and the Gorilla Problem}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/09},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re111} Retrieved 10th Jan. 2023}
+@Comment }
+
+@book{ReSeg111,
+	author = {Re111},
+	title = {AI and the Gorilla Problem},
+	publisher = {retraice.com},
+	year = {2023/01/09},
+	note =  {\newline\url{https://www.retraice.com/segments/re111} Retrieved 10th Jan. 2023}
+}
+
+@comment @comment{ReSeg112,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re112: The Attention Hazard and The Attention (Distraction) Economy}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/10},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re112} Retrieved 11th Jan. 2023}
+@Comment }
+
+@book{ReSeg112,
+	author = {Re112},
+	title = {The Attention Hazard and The Attention (Distraction) Economy},
+	publisher = {retraice.com},
+	year = {2023/01/10},
+	note =  {\newline\url{https://www.retraice.com/segments/re112} Retrieved 11th Jan. 2023}
+}
+    
+@comment @comment{ReSeg113,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re113: Uncertainty, Fear and Consent (Technological Danger, Part 1)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/11},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re113} Retrieved 12th Jan. 2023}
+@Comment }
+
+
+@book{ReSeg113,
+	author = {Re113},
+	title = {Uncertainty, Fear and Consent (Technological Danger, Part 1)},
+	publisher = {retraice.com},
+	year = {2023/01/11},
+	note =  {\newline\url{https://www.retraice.com/segments/re113} Retrieved 12th Jan. 2023}
+}
+    
+@comment @comment{ReSeg114,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re114: Visions of Loss (Technological Danger, Part 2)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/12},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re114} Retrieved 13th Jan. 2023}
+@Comment }
+
+@book{ReSeg114,
+	author = {Re114},
+	title = {Visions of Loss (Technological Danger, Part 2)},
+	publisher = {retraice.com},
+	year = {2023/01/12},
+	note =  {\newline\url{https://www.retraice.com/segments/re114} Retrieved 13th Jan. 2023}
+}    
+
+@comment @comment{ReSeg115,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re115: Technological Progress, Defined (Technological Danger, Part 3)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/13},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re115} Retrieved 14th Jan. 2023}
+@Comment }
+
+@book{ReSeg115,
+	author = {Re115},
+	title = {Technological Progress, Defined (Technological Danger, Part 3)},
+	publisher = {retraice.com},
+	year = {2023/01/13},
+	note =  {\newline\url{https://www.retraice.com/segments/re115} Retrieved 14th Jan. 2023}
+}
+    
+@comment @comment{ReSeg116,
+@Comment 	author = {Retraice},
+@Comment 	title = {\text{Re116: When Does the Bad Thing Happen? (Technological Danger, Part 4)}},
+@Comment 	journal = {retraice.com},
+@Comment 	year = {2023/01/14},
+@Comment 	note =  {\newline\url{https://www.retraice.com/segments/re116} Retrieved 24th Jun. 2023}
+@Comment }
+
+@book{ReSeg116,
+	author = {Re116},
+	title = {When Does the Bad Thing Happen? (Technological Danger, Part 4)},
+	publisher = {retraice.com},
+	year = {2023/01/14},
+	note =  {\newline\url{https://www.retraice.com/segments/re116} Retrieved 24th Jun. 2023}
+}
+
+
+
+%%%%%%%%%%% placeholders [2023-06-23 Fri 09:30]
+
+% manually produced:     
+@book{MaSeg23,
+        author = {Ma23},
+        title = {\text{Ma23: Making Things Work}},
+        publisher = {retraice.com},
+        year = {2023/06/15},
+        note =  {\newline\url{https://www.retraice.com/segments/ma23} Retrieved 23rd Jun. 2023}
+}
+    
+% automatically added: 
+

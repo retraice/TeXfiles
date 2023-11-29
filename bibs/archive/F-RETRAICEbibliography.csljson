@@ -1,0 +1,2127 @@
+[
+  {
+    "URL": "https://www.retraice.com/segments/re1",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          22
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Re1"
+      }
+    ],
+    "container-title": "Retraice",
+    "id": "ReSeg1",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          7
+        ]
+      ]
+    },
+    "title": "Three kinds of intelligence",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg2",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re2 Retrieved 22nd Sep. 2020",
+    "title": "Re2: Tell the People, Tell Foes",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg3",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re3 Retrieved 22nd Sep. 2020",
+    "title": "Re3: Tell Everyone",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg4",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re4 Retrieved 22nd Sep. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg5",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re5 Retrieved 22nd Sep. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg6",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re6 Retrieved 26th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg7",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re7 Retrieved 27th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg8",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re8 Retrieved 29th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg9",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re9 Retrieved 31st Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg10",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re10 Retrieved 2nd Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg11",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re11 Retrieved 4th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg12",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re12 Retrieved 5th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg13",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re13 Retrieved 10th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg14",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re14 Retrieved 14th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg1",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma1 Retrieved 24th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg2",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma2 Retrieved 24th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg3",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma3 Retrieved 24th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg4",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma4 Retrieved 24th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg5",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma5 Retrieved 24th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg6",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma6 Retrieved 26th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg7",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma7 Retrieved 27th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg8",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma8 Retrieved 30th Oct. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg9",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma9 Retrieved 1st Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg10",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma10 Retrieved 3rd Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg11",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma11 Retrieved 4th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg12",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma12 Retrieved 5th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg13",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma13 Retrieved 10th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg14",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma14 Retrieved 14th Nov. 2020",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg15",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma15 Retrieved 28th Feb. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg15",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re15 Retrieved 28th Feb. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg16",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma16 Retrieved 5th Mar. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg16",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re16 Retrieved 6th Mar. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg17",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re17 Retrieved 17th Mar. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg18",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re18 Retrieved 25th Mar. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg17",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma17 Retrieved 1st Apr. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg18",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma18 Retrieved 11th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg19",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re19 Retrieved 12th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg19",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma19 Retrieved 13th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg20",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma20 Retrieved 14th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg21",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma21 Retrieved 15th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margin"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "MaSeg22",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma22 Retrieved 16th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg20",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re20 Retrieved 17th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg21",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re21 Retrieved 18th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg22",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re22 Retrieved 19th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg23",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re23 Retrieved 20th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg24",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re24 Retrieved 21st Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg25",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re25 Retrieved 22nd Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg26",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re26 Retrieved 23rd Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg27",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re27 Retrieved 24th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg28",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re28 Retrieved 25th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg29",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re29 Retrieved 26th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg30",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re30 Retrieved 27th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg31",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re31 Retrieved 28th Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg32",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re32 Retrieved 31st Oct. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg33",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re33 Retrieved 2nd Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg34",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re34 Retrieved 3rd Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg35",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re35 Retrieved 3rd Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg36",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re36 Retrieved 4th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg37",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re37 Retrieved 4th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg38",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re38 Retrieved 5th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg39",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re39 Retrieved 6th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg40",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re40 Retrieved 7th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg41",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re41 Retrieved 8th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg42",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re42 Retrieved 8th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg43",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re43 Retrieved 9th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg44",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re44 Retrieved 10th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg45",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re45 Retrieved 11th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg46",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re46 Retrieved 13th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg47",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re47 Retrieved 14th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg48",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re48 Retrieved 14th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg49",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re49 Retrieved 15th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg50",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re50 Retrieved 15th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg51",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re51 Retrieved 16th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg52",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re52 Retrieved 17th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg53",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re53 Retrieved 18th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg54",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re54 Retrieved 19th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg55",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re55 Retrieved 20th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg56",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re56 Retrieved 21st Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "AIMA4e",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "note": "https://aima4e.retraice.com ",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg57",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re57 Retrieved 22nd Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg58",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re58 Retrieved 23rd Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg59",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re59 Retrieved 24th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg60",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re60 Retrieved 25th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg61",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re61 Retrieved 26th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg62",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re62 Retrieved 27th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg63",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re63 Retrieved Monday Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg64",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re64 Retrieved 29th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg65",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re65 Retrieved 30th Nov. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg66",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re66 Retrieved 1st Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg67",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re67 Retrieved 2nd Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg68",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re68 Retrieved 3rd Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg69",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re69 Retrieved 4th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg70",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re70 Retrieved 5th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg71",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re71 Retrieved 6th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg72",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re72 Retrieved 7th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg73",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re73 Retrieved 8th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg74",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re74 Retrieved 9th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg75",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re75 Retrieved 10th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg76",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re76 Retrieved 11th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg77",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re77 Retrieved 12th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg78",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re78 Retrieved 12th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg79",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re79 Retrieved 13th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg80",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re80 Retrieved 14th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg81",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re81 Retrieved 15th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg82",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re82 Retrieved 15th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg83",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re83 Retrieved 16th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg84",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re84 Retrieved 17th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg85",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re85 Retrieved 18th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg86",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re86 Retrieved 19th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg87",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re87 Retrieved 20th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg88",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re88 Retrieved 21st Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg89",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re89 Retrieved 22nd Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg90",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re90 Retrieved 23rd Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg91",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re91 Retrieved 24th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg92",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re92 Retrieved 24th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg93",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re93 Retrieved 25th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg94",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re94 Retrieved 26th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg95",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re95 Retrieved 27th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg96",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re96 Retrieved 27th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg97",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re97 Retrieved 28th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg98",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re98 Retrieved 28th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Retraice"
+      }
+    ],
+    "container-title": "retraice.com",
+    "id": "ReSeg99",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re99 Retrieved 29th Dec. 2022",
+    "title": "",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Re100"
+      }
+    ],
+    "id": "ReSeg100",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re100 Retrieved 30th Dec. 2022",
+    "publisher": "retraice.com",
+    "title": "News of ChatGPT, part 3",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re101"
+      }
+    ],
+    "id": "ReSeg101",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re101 Retrieved 31st Dec. 2022",
+    "publisher": "retraice.com",
+    "title": "News of ChatGPT, part 4",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re102"
+      }
+    ],
+    "id": "ReSeg102",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re102 Retrieved 1st Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "AI for what",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re103"
+      }
+    ],
+    "id": "ReSeg103",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re103 Retrieved 2nd Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Dimensions of intelligent agents (day 1, AIMA4e chpt. 1)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re104"
+      }
+    ],
+    "id": "ReSeg104",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re104 Retrieved 3rd Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Agent functions, agent programs, task environments (day 2, AIMA4e chpt. 2)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re105"
+      }
+    ],
+    "id": "ReSeg105",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re105 Retrieved 4th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Solve or be solved (day 3, AIMA4e chpt. 3)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re106"
+      }
+    ],
+    "id": "ReSeg106",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re106 Retrieved 5th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Elitism, culling, coercion, adversaries, strategy (day 4, AIMA4e chpt. 4)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re107"
+      }
+    ],
+    "id": "ReSeg107",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re107 Retrieved 6th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Three kinds of AI (day 5, AIMA4e chpt. 5)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re108"
+      }
+    ],
+    "id": "ReSeg108",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re108 Retrieved 7th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Contributors and controllers (day 6, AIMA4e chpt. 6)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re109"
+      }
+    ],
+    "id": "ReSeg109",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          7
+        ]
+      ]
+    },
+    "note": "https://www.retraice.com/segments/re109 Retrieved 8th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "TikTok (app), tik-tok (novel), and low-power mode (day 7, AIMA4e chpt. 7)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re110"
+      }
+    ],
+    "id": "ReSeg110",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re110 Retrieved 9th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "TikTok for addicting the world’s kids",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re111"
+      }
+    ],
+    "id": "ReSeg111",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re111 Retrieved 10th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "AI and the gorilla problem",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re112"
+      }
+    ],
+    "id": "ReSeg112",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re112 Retrieved 11th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "The attention hazard and the attention (distraction) economy",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re113"
+      }
+    ],
+    "id": "ReSeg113",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re113 Retrieved 12th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Uncertainty, fear and consent (technological danger, part 1)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re114"
+      }
+    ],
+    "id": "ReSeg114",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re114 Retrieved 13th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Visions of loss (technological danger, part 2)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re115"
+      }
+    ],
+    "id": "ReSeg115",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re115 Retrieved 14th Jan. 2023",
+    "publisher": "retraice.com",
+    "title": "Technological progress, defined (technological danger, part 3)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Re116"
+      }
+    ],
+    "id": "ReSeg116",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/re116 Retrieved 24th Jun. 2023",
+    "publisher": "retraice.com",
+    "title": "When does the bad thing happen? (Technological danger, part 4)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma23"
+      }
+    ],
+    "id": "MaSeg23",
+    "issued": {
+      "date-parts": []
+    },
+    "note": "https://www.retraice.com/segments/ma23 Retrieved 23rd Jun. 2023",
+    "publisher": "retraice.com",
+    "title": "",
+    "type": "book"
+  }
+]
