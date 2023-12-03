@@ -26,11 +26,13 @@
       <term name="no date">without date</term>
     </terms>
   </locale>
+
   <macro name="author">
-    <names variable="author">
+    <names variable="author" font-weight="bold">
       <name initialize-with="."/>
     </names>
   </macro>
+
   <macro name="issued-year">
     <choose>
       <if variable="issued">
@@ -43,6 +45,46 @@
       </else>
     </choose>
   </macro>
+
+  <macro name="access">
+    <choose>
+      <if variable="DOI" match="any">
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </if>
+      <else-if variable="URL">
+        <!-- <group delimiter=" ">                                                           <!-\- original -jlm -\-> -->
+
+        <!-- <group display="block" delimiter=" " prefix="&amp;#13;">                        <!-\- doesn't work -jlm [2023-06-28 Wed 15:06]-\-> -->
+        <!-- <group display="block" delimiter=" " prefix="&#10;">                            <!-\- Same as #13 -jlm -\->   -->
+        <!-- <group display="block" delimiter=" " prefix="<br>">                             <!-\- Breaks both html and LaTeX -jlm -\-> -->
+
+        <!-- <group display="block" prefix="" suffix="" delimiter=", &#10; &#032;">          <!-\- Works for html, not latex -\-> -->
+        <!-- <group display="block" delimiter=" " prefix="">                                 <!-\- works for html, not latex -jlm -\-> -->
+        <!-- <group display="block" delimiter=" " prefix="&#13;">                            <!-\- Works for html, not latex -jlm -\->   -->
+        <!-- <group display="left-margin" delimiter=" " prefix="">                           <!-\- Works for html, not latex -\-> -->
+        <!-- <group display="block, right-margin" delimiter=" " prefix="">                           <!-\- html newline is indented, but html is not newlined. latex bad. -\-> -->
+        
+        <group display="block" delimiter=" " prefix="&#10; \newline" suffix="&#10;">   <!-- This works for both, but \newline needs to be sed-ed out of html... Maybe don't bother with the newline.  -jlm-->
+          <choose>
+            <if variable="issued status" match="none">
+              <group delimiter=" ">
+                <text term="retrieved" text-case="capitalize-first"/>
+                <date variable="accessed" form="text" suffix=","/>
+                <text term="from"/>
+              </group>
+            </if> 
+          </choose>
+          <text variable="URL"/>
+          <date delimiter="-" variable="accessed" prefix="Retrieved " suffix=".">           <!--This controls the Retrieved -jlm -->
+            <date-part name="year"/>
+            <date-part name="month" form="numeric-leading-zeros"/>
+            <date-part name="day" form="numeric-leading-zeros"/>
+          </date>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+
   <citation et-al-min="3" et-al-use-first="1">
     <sort>
       <key macro="author"/>
@@ -55,26 +97,28 @@
       </group>
     </layout>
   </citation>
-  <bibliography>
-    <sort>
-      <key macro="author"/>
-      <key macro="issued-year"/>
-      <key variable="title"/>
-    </sort>
-    <layout suffix=".">
-      <group delimiter=", ">
-        <group delimiter=". ">
-          <text macro="author"/>
-          <text macro="issued-year"/>
-          <text variable="title"/>
-          <text variable="container-title"/>
-        </group>
-        <group>
-          <text variable="volume"/>
-          <text variable="issue" prefix="(" suffix=")"/>
-        </group>
-        <text variable="page"/>
-      </group>
-    </layout>
-  </bibliography>
+
+<bibliography hanging-indent="true" entry-spacing = "3" >
+  <sort>
+    <key macro="author"/>
+    <key macro="issued-year"/>
+    <key variable="title"/>
+  </sort>
+
+  <layout>
+
+    <group>
+      <text macro="author" display="block"/> <!--This gets html to put URL on newline, indented-->
+    </group>
+
+    <group prefix="\newline" > <!--display="block" does html newline, but not hanging indent. Prefix gets PDF looking perfect.  Just needs post-processing out of the html.--> 
+      <text variable="URL"/>
+      <date variable="accessed" form="numeric" prefix=" Retrieved: "/>
+      <!-- <text variable="note"/> -->
+    </group>
+
+  </layout>
+
+</bibliography>
+
 </style>
