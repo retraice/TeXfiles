@@ -1,0 +1,3305 @@
+[
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/62UC7AU8",
+		"type": "book",
+		"ISBN": "978-1-4000-6975-0",
+		"publisher": "Random House",
+		"title": "Good Prose: The Art of Nonfiction",
+		"author": [
+			{
+				"family": "Kidder",
+				"given": "Tracy"
+			},
+			{
+				"family": "Todd",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/H62KFFTW",
+		"type": "book",
+		"ISBN": "978-1-63557-605-4",
+		"publisher": "Bloomsbury Publishing",
+		"title": "This Is How They Tell Me the World Ends: The Cyberweapons Arms Race",
+		"author": [
+			{
+				"family": "Perlroth",
+				"given": "Nicole"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/823DP8W8",
+		"type": "book",
+		"ISBN": "978-0-86571-736-7",
+		"publisher": "New Society",
+		"title": "The Five Stages of Collapse: Survivors' Toolkit",
+		"author": [
+			{
+				"family": "Orlov",
+				"given": "Dmitry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/Q32UAZNR",
+		"type": "book",
+		"ISBN": "978-0-374-10486-3",
+		"publisher": "Farrar, Straus and Giroux",
+		"title": "Analogia: The Emergence of Technology Beyond Programmable Control",
+		"author": [
+			{
+				"family": "Dyson",
+				"given": "George"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/445VSU7S",
+		"type": "book",
+		"ISBN": "978-0-451-49790-1",
+		"publisher": "Broadway Books",
+		"title": "The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age",
+		"author": [
+			{
+				"family": "Sanger",
+				"given": "David E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/6HIZ8XI4",
+		"type": "book",
+		"ISBN": "978-1-4767-6325-5",
+		"publisher": "Simon & Schuster",
+		"title": "Dark Territory: The Secret History of Cyber War",
+		"author": [
+			{
+				"family": "Kaplan",
+				"given": "Fred"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/9MXPCT5D",
+		"type": "book",
+		"ISBN": "978-1-4262-1980-1",
+		"publisher": "National Geographic",
+		"title": "Immortality, Inc.: Renegade Science, Silicon Valley Billions, and the Quest to Live Forever",
+		"author": [
+			{
+				"family": "Walter",
+				"given": "Chip"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/LHLNSCCV",
+		"type": "book",
+		"ISBN": "978-1-328-91538-2",
+		"publisher": "Mariner Books",
+		"title": "Destined for War: Can America and China Escape Thucydides's Trap?",
+		"author": [
+			{
+				"family": "Allison",
+				"given": "Graham"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/EZDJV2D7",
+		"type": "book",
+		"ISBN": "978-1-250-08134-6",
+		"publisher": "St. Martin's Griffin",
+		"title": "The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower",
+		"author": [
+			{
+				"family": "Pillsbury",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/WW45MNTE",
+		"type": "book",
+		"ISBN": "978-0-593-08434-2",
+		"publisher": "Portfolio",
+		"title": "Stealth War: How China Took Over While America's Elite Slept",
+		"author": [
+			{
+				"family": "Spalding",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/S2ZRWU24",
+		"type": "book",
+		"ISBN": "978-0-86571-606-3",
+		"publisher": "New Society",
+		"title": "Reinventing Collapse: The Soviet Example and American Prospects",
+		"author": [
+			{
+				"family": "Orlov",
+				"given": "Dmitry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/3XDQBZK3",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-0-19-922802-7",
+		"publisher": "Oxford University Press",
+		"title": "Modern China: A Very Short Introduction",
+		"author": [
+			{
+				"family": "Mitter",
+				"given": "Rana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/JJUBEBZV",
+		"type": "book",
+		"ISBN": "978-1-4767-6990-5",
+		"publisher": "Simon & Schuster",
+		"title": "Our Kids: The American Dream in Crisis",
+		"author": [
+			{
+				"family": "Putnam",
+				"given": "Robert D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/ANJHJFWG",
+		"type": "book",
+		"ISBN": "978-1-59420-551-4",
+		"publisher": "Penguin Press",
+		"title": "A Fine Mess: A Global Quest for a Simpler, Fairer, and More Efficient Tax System",
+		"author": [
+			{
+				"family": "Reid",
+				"given": "T. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/LX6PAGFN",
+		"type": "book",
+		"ISBN": "978-0-19-026568-7",
+		"publisher": "Oxford University Press",
+		"title": "The Dragons And The Snakes: How The Rest Learned To Fight The West",
+		"author": [
+			{
+				"family": "Kilcullen",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/9C68GKC8",
+		"type": "book",
+		"ISBN": "978-1-5234-6473-9",
+		"publisher": "CreateSpace Independent",
+		"title": "Anticipating Surprise: Analysis for Strategic Warning",
+		"author": [
+			{
+				"family": "Grabo",
+				"given": "Cynthia M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/3F6Z8T36",
+		"type": "book",
+		"ISBN": "978-1-328-54639-5",
+		"publisher": "Houghton Mifflin Harcourt",
+		"title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Kai-Fu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/7FM4QING",
+		"type": "book",
+		"ISBN": "978-0-19-025017-1",
+		"publisher": "Oxford University Press",
+		"title": "Climate Change: What Everyone Needs to Know",
+		"author": [
+			{
+				"family": "Romm",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/QXPCCN8D",
+		"type": "book",
+		"ISBN": "978-1-982134-51-8",
+		"publisher": "Simon & Schuster",
+		"title": "How to Prepare for Climate Change: A Practical Guide to Surviving the Chaos",
+		"author": [
+			{
+				"family": "Pogue",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/DUBKSRG8",
+		"type": "book",
+		"ISBN": "978-0-684-82429-1",
+		"publisher": "Free Press",
+		"title": "The Bell Curve: Intelligence and Class Structure in American Life",
+		"author": [
+			{
+				"family": "Herrnstein",
+				"given": "Richard J."
+			},
+			{
+				"family": "Murray",
+				"given": "Charles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/G93B8YPX",
+		"type": "book",
+		"edition": "2nd",
+		"ISBN": "978-1-108-71919-3",
+		"publisher": "Cambridge University Press",
+		"title": "The Cambridge Handbook of Intelligence (Cambridge Handbooks in Psychology) (2 vols.)",
+		"editor": [
+			{
+				"family": "Sternberg",
+				"given": "Robert J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/RZGGJZQB",
+		"type": "book",
+		"ISBN": "978-1-984819-19-2",
+		"publisher": "Bantam",
+		"title": "Brief Answers to the Big Questions",
+		"author": [
+			{
+				"family": "Hawking",
+				"given": "Stephen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/C36Q2377",
+		"type": "book",
+		"ISBN": "978-0-578-43705-7",
+		"publisher": "Interstellar",
+		"title": "Dreamland: An Autobiography",
+		"author": [
+			{
+				"family": "Lazar",
+				"given": "Bob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/LKQNWKIE",
+		"type": "book",
+		"edition": "1st",
+		"ISBN": "0-9677995-0-3",
+		"publisher": "Keyhole",
+		"title": "UFOs and the National Security State Vol. 1: An Unclassified History",
+		"author": [
+			{
+				"family": "Dolan",
+				"given": "Richard M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/G9E2E2FZ",
+		"type": "book",
+		"ISBN": "978-1-59463-393-5",
+		"publisher": "Riverhead Books",
+		"title": "How We Got to Now: Six Innovations That Made the Modern World",
+		"author": [
+			{
+				"family": "Johnson",
+				"given": "Steven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/GTSQVRVM",
+		"type": "book",
+		"ISBN": "0-07-228962-7",
+		"publisher": "Mcgraw-Hill",
+		"title": "Principles of Economics",
+		"author": [
+			{
+				"family": "Frank",
+				"given": "Robert"
+			},
+			{
+				"family": "Bernanke",
+				"given": "Ben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KG7FBXZB",
+		"type": "book",
+		"ISBN": "0-393-31755-2",
+		"publisher": "Norton",
+		"title": "Guns, Germs, and Steel: The Fates of Human Societies",
+		"author": [
+			{
+				"family": "Diamond",
+				"given": "Jared"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/AR5LLBBW",
+		"type": "book",
+		"edition": "50th anniv.",
+		"ISBN": "978-1-4516-5168-3",
+		"publisher": "Simon & Schuster",
+		"title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+		"author": [
+			{
+				"family": "Shirer",
+				"given": "William L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/NCFJPINZ",
+		"type": "book",
+		"edition": "Revised",
+		"ISBN": "1-56584-794-6",
+		"publisher": "The New Press",
+		"title": "For Reasons of State",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/2Q9RI46G",
+		"type": "book",
+		"ISBN": "978-0-06-239086-8",
+		"publisher": "Dey Street Books",
+		"title": "Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are",
+		"author": [
+			{
+				"family": "Stephens-Davidowitz",
+				"given": "Seth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/XHPGLQ4E",
+		"type": "book",
+		"ISBN": "978-0-14-311091-0",
+		"publisher": "Penguin Books",
+		"title": "Behave: The Biology of Humans at Our Best and Worst",
+		"author": [
+			{
+				"family": "Sapolsky",
+				"given": "Robert M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/LLCNCJSZ",
+		"type": "book",
+		"ISBN": "978-0-8050-9515-9",
+		"publisher": "Metropolitan Books",
+		"title": "Being Mortal: Medicine and What Matters in the End",
+		"author": [
+			{
+				"family": "Gawande",
+				"given": "Atul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/22J49UX3",
+		"type": "book",
+		"ISBN": "978-1-73226-517-2",
+		"publisher": "Stripe Press",
+		"title": "The Art of Doing Science and Engineering: Learning to Learn",
+		"author": [
+			{
+				"family": "Hamming",
+				"given": "Richard W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/3TBWL8XN",
+		"type": "book",
+		"edition": "Revised",
+		"ISBN": "978-0-8050-7165-8",
+		"publisher": "Holt Paperbacks",
+		"title": "Evil: Inside Human Violence and Cruelty",
+		"author": [
+			{
+				"family": "Baumeister",
+				"given": "Roy F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/SILRAHNV",
+		"type": "book",
+		"ISBN": "0-262-11121-7",
+		"publisher": "MIT Press",
+		"title": "The Age of Intelligent Machines",
+		"author": [
+			{
+				"family": "Kurzweil",
+				"given": "Ray"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/NFHIRGRY",
+		"type": "book",
+		"ISBN": "0-14-028202-5",
+		"publisher": "Penguin Books",
+		"title": "The Age of Spiritual Machines: When Computers Exceed Human Intelligence",
+		"author": [
+			{
+				"family": "Kurzweil",
+				"given": "Ray"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/W7988QGJ",
+		"type": "book",
+		"ISBN": "978-0-19-022923-8",
+		"publisher": "Oxford University Press",
+		"title": "Strategy: A History",
+		"author": [
+			{
+				"family": "Freedman",
+				"given": "Lawrence"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/P7Y398ED",
+		"type": "book",
+		"ISBN": "978-0-262-68150-6",
+		"publisher": "Bradford",
+		"title": "Advice for a Young Investigator",
+		"author": [
+			{
+				"family": "Cajal",
+				"given": "Santiago Ramón",
+				"dropping-particle": "y"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/EUGNMEFH",
+		"type": "book",
+		"edition": "4th Revised",
+		"ISBN": "0-674-29071-2",
+		"publisher": "Harvard University Press",
+		"title": "Fact, Fiction, and Forecast",
+		"author": [
+			{
+				"family": "Goodman",
+				"given": "Nelson"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/LI6JKZNZ",
+		"type": "book",
+		"ISBN": "978-1-68422-412-8",
+		"publisher": "Martino Fine Books",
+		"title": "Psychology of Intelligence Analysis",
+		"author": [
+			{
+				"family": "Heuer",
+				"given": "Richards J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/BM9ZGTG6",
+		"type": "book",
+		"ISBN": "9798595265973",
+		"publisher": "Independently published",
+		"title": "Proofs: A Long-Form Mathematics Textbook",
+		"author": [
+			{
+				"family": "Cummings",
+				"given": "Jay"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/WFKAKSRB",
+		"type": "book",
+		"edition": "4th",
+		"ISBN": "978-1-137-57349-0",
+		"publisher": "Palgrave Macmillan",
+		"title": "The Evolution of Nuclear Strategy",
+		"author": [
+			{
+				"family": "Freedman",
+				"given": "Lawrence"
+			},
+			{
+				"family": "Michaels",
+				"given": "Jeffrey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/IMIMKK2Q",
+		"type": "book",
+		"ISBN": "0-306-81419-6",
+		"publisher": "Da Capo Press",
+		"title": "Burn Unit: Saving Lives After the Flames",
+		"author": [
+			{
+				"family": "Ravage",
+				"given": "Barbara"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/77GZ82DY",
+		"type": "book",
+		"ISBN": "1-56852-133-2",
+		"publisher": "Konecky & Konecky",
+		"title": "The Good Old Days: The Holocaust as Seen by Its Perpetrators and Bystanders",
+		"editor": [
+			{
+				"family": "Ernst Klee",
+				"given": "Volker Riess",
+				"suffix": "Willi Dressen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/SD2839IX",
+		"type": "book",
+		"ISBN": "978-0-307-47302-8",
+		"publisher": "Vintage",
+		"title": "The Mind's Eye",
+		"author": [
+			{
+				"family": "Sacks",
+				"given": "Oliver"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/Q5VG2Y2Z",
+		"type": "book",
+		"ISBN": "0-520-01055-8",
+		"publisher": "University of California Press",
+		"title": "The Rise of Scientific Philosophy",
+		"author": [
+			{
+				"family": "Reichenbach",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/QJYQZT8B",
+		"type": "book",
+		"ISBN": "0-19-280283-6",
+		"publisher": "Oxford University Press",
+		"title": "Philosophy of Science: A Very Short Introduction",
+		"author": [
+			{
+				"family": "Okasha",
+				"given": "Samir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/AY2KBQHU",
+		"type": "book",
+		"edition": "3rd",
+		"ISBN": "978-0-521-72079-3",
+		"publisher": "Cambridge University Press",
+		"title": "Paradoxes",
+		"author": [
+			{
+				"family": "Sainsbury",
+				"given": "R. M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/2VJMTX9T",
+		"type": "book",
+		"ISBN": "978-1-4344-0696-5",
+		"publisher": "Wildside Press",
+		"title": "A Treatise on Probability: The Connection Between Philosophy and the History of Science",
+		"author": [
+			{
+				"family": "Keynes",
+				"given": "John Maynard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1920"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/MKXE2GX3",
+		"type": "book",
+		"ISBN": "978-1-61427-557-2",
+		"publisher": "Martino Fine Books",
+		"title": "Mathematics and Plausible Reasoning [Two Volumes in One]",
+		"author": [
+			{
+				"family": "Polya",
+				"given": "George"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1954"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/3RSMFA38",
+		"type": "book",
+		"ISBN": "978-1-4920-8279-8",
+		"publisher": "O'Reilly Media",
+		"title": "Software Engineering at Google: Lessons Learned from Programming Over Time",
+		"author": [
+			{
+				"family": "Winters",
+				"given": "Titus"
+			},
+			{
+				"family": "Manshreck",
+				"given": "Tom"
+			},
+			{
+				"family": "Wright",
+				"given": "Hyrum"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/2GBZUNNJ",
+		"type": "book",
+		"ISBN": "978-1-264-27766-7",
+		"publisher": "McGraw Hill",
+		"title": "Zero to IPO",
+		"author": [
+			{
+				"family": "Kerrest",
+				"given": "Frederic"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/82YQU9AZ",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-101-98034-7",
+		"publisher": "Penguin Press",
+		"title": "Hit Makers: The Science Of Popularity In An Age Of Distraction",
+		"author": [
+			{
+				"family": "Thompson",
+				"given": "Derek"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/FUZUZI9U",
+		"type": "book",
+		"ISBN": "1-921019-63-8",
+		"publisher": "BookSurge Australia",
+		"title": "Theory of Nothing",
+		"author": [
+			{
+				"family": "Standish",
+				"given": "Russell"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/NL2QILHY",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-0-593-13324-8",
+		"publisher": "Random House",
+		"title": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us",
+		"author": [
+			{
+				"family": "Yong",
+				"given": "Ed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/CRTBSYNI",
+		"type": "book",
+		"ISBN": "978-0-470-13988-2",
+		"publisher": "Wiley",
+		"title": "The Science of Success",
+		"author": [
+			{
+				"family": "Koch",
+				"given": "Charles G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/FWHSL8CL",
+		"type": "book",
+		"ISBN": "978-0-06-231609-7",
+		"publisher": "Harper",
+		"title": "Sapiens: A Brief History of Humankind",
+		"author": [
+			{
+				"family": "Harari",
+				"given": "Yuval Noah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/K3CSBPHS",
+		"type": "book",
+		"ISBN": "978-0-06-246431-6",
+		"publisher": "Harper",
+		"title": "Homo Deus: A Brief History of Tomorrow",
+		"author": [
+			{
+				"family": "Harari",
+				"given": "Yuval Noah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/BM4M7PU7",
+		"type": "book",
+		"edition": "2nd",
+		"ISBN": "978-0-415-32508-0",
+		"publisher": "Routledge",
+		"title": "Sceptical Essays",
+		"author": [
+			{
+				"family": "Russell",
+				"given": "Bertrand"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1928"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KLZ5LD6K",
+		"type": "book",
+		"ISBN": "0-7425-1685-7",
+		"publisher": "Rowman & Littlefield",
+		"title": "Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-battering System That Shapes Their Lives",
+		"author": [
+			{
+				"family": "Schmidt",
+				"given": "Jeff"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/32P7CFUU",
+		"type": "book",
+		"ISBN": "978-0-19-537668-5",
+		"publisher": "Oxford University Press",
+		"title": "The Thief of Time: Philosophical Essays on Procrastination",
+		"editor": [
+			{
+				"family": "Andreou",
+				"given": "Chrisoula"
+			},
+			{
+				"family": "White",
+				"given": "Mark D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/JNXTV23P",
+		"type": "book",
+		"ISBN": "978-0-19-923016-7",
+		"publisher": "Oxford University Press",
+		"title": "In Two Minds: Dual Processes and Beyond",
+		"editor": [
+			{
+				"family": "Evans",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Frankish",
+				"given": "Keith"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/8NZP6K3C",
+		"type": "book",
+		"ISBN": "0-262-08164-4",
+		"publisher": "MIT Press",
+		"title": "Asymmetries in Time: Problems in the Philosophy of Science",
+		"author": [
+			{
+				"family": "Horwich",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/DWKAGTFB",
+		"type": "book",
+		"edition": "2nd",
+		"ISBN": "978-3-319-13235-8",
+		"publisher": "Springer",
+		"title": "If the Universe Is Teeming with Aliens ... Where Is Everybody? Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life",
+		"author": [
+			{
+				"family": "Webb",
+				"given": "Stephen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/DBLV4XI9",
+		"type": "book",
+		"ISBN": "978-1-982124-37-3",
+		"publisher": "Simon & Schuster",
+		"title": "The Legacy of Heorot",
+		"author": [
+			{
+				"family": "Niven",
+				"given": "Larry"
+			},
+			{
+				"family": "Pournelle",
+				"given": "Jerry"
+			},
+			{
+				"family": "Barnes",
+				"given": "Steven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/93NM6VU2",
+		"type": "book",
+		"ISBN": "978-0-7653-8669-4",
+		"publisher": "Tor Books",
+		"title": "The Dark Forest",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Cixin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/A73LTB5I",
+		"type": "book",
+		"ISBN": "978-0-7653-8203-0",
+		"publisher": "Tor Books",
+		"title": "The Three-Body Problem",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Cixin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/ATPMQXVU",
+		"type": "book",
+		"ISBN": "978-0-7653-8663-2",
+		"publisher": "Tor Books",
+		"title": "Death's End",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Cixin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/Y4K4EYV9",
+		"type": "book",
+		"edition": "5th",
+		"ISBN": "0-19-860173-5",
+		"publisher": "Oxford University Press",
+		"title": "The Oxford Dictionary of Quotations",
+		"editor": [
+			{
+				"family": "Knowles",
+				"given": "Elizabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/MJ6PRUP5",
+		"type": "book",
+		"ISBN": "0-14-303632-7",
+		"publisher": "Penguin Books",
+		"title": "On the Shortness of Life",
+		"author": [
+			{
+				"literal": "Seneca"
+			}
+		],
+		"translator": [
+			{
+				"family": "Costa",
+				"given": "C. D. N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/553E5MHS",
+		"type": "book",
+		"edition": "3rd",
+		"ISBN": "978-0-86091-646-8",
+		"publisher": "Verso",
+		"title": "Against Method",
+		"author": [
+			{
+				"family": "Feyerabend",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/38TDKX24",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-63149-319-5",
+		"publisher": "W. W. Norton",
+		"title": "The Origins of Creativity",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Edward O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KR2X889T",
+		"type": "book",
+		"ISBN": "978-0-316-27380-0",
+		"publisher": "Little, Brown and Company",
+		"title": "The Age of AI",
+		"author": [
+			{
+				"family": "Kissinger",
+				"given": "Henry A"
+			},
+			{
+				"family": "Schmidt",
+				"given": "Eric"
+			},
+			{
+				"family": "Huttenlocher",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/ZW5Q9NTJ",
+		"type": "book",
+		"ISBN": "0-465-04362-3",
+		"publisher": "Basic Books",
+		"title": "A Mathematician Reads The Newspaper",
+		"author": [
+			{
+				"family": "Paulos",
+				"given": "John Allen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/VXECBRID",
+		"type": "book",
+		"ISBN": "978-0-14-312404-7",
+		"publisher": "Penguin Books",
+		"title": "How to Create a Mind: The Secret of Human Thought Revealed",
+		"author": [
+			{
+				"family": "Kurzweil",
+				"given": "Ray"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/DDZT34ZK",
+		"type": "book",
+		"ISBN": "0-471-45380-3",
+		"publisher": "Wiley",
+		"title": "Secrets and Lies: Digital Security in a Networked World",
+		"author": [
+			{
+				"family": "Schneier",
+				"given": "Bruce"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/ZPK6B5FF",
+		"type": "book",
+		"edition": "40th anniv.",
+		"ISBN": "978-0-19-878860-7",
+		"publisher": "Oxford",
+		"title": "The Selfish Gene",
+		"author": [
+			{
+				"family": "Dawkins",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/2DGIDMJ9",
+		"type": "book",
+		"ISBN": "978-1-107-41474-7",
+		"publisher": "Cambridge University Press",
+		"title": "The Two Fundamental Problems of Ethics",
+		"author": [
+			{
+				"family": "Schopenhauer",
+				"given": "Arthur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/HV4V5PAY",
+		"type": "book",
+		"ISBN": "978-0-691-15831-0",
+		"publisher": "Princeton University Press",
+		"title": "Fear and Trembling and The Sickness Unto Death",
+		"author": [
+			{
+				"family": "Kierkegaard",
+				"given": "Søren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/HFNSLHRY",
+		"type": "book",
+		"ISBN": "0-684-82471-X",
+		"publisher": "Simon & Schuster",
+		"title": "Darwin's Dangerous Idea: Evolution And The Meanings Of Life",
+		"author": [
+			{
+				"family": "Dennett",
+				"given": "Daniel C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/LM7NXAPZ",
+		"type": "book",
+		"ISBN": "978-1-324-02131-5",
+		"publisher": "W. W. Norton & Company",
+		"title": "Danger Zone: The Coming Conflict with China",
+		"author": [
+			{
+				"family": "Beckley",
+				"given": "Michael"
+			},
+			{
+				"family": "Brands",
+				"given": "Hal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/EIM7H3VK",
+		"type": "book",
+		"ISBN": "0-671-45667-9",
+		"publisher": "Pocket",
+		"title": "The Man Who Kept The Secrets: Richard Helms And The CIA",
+		"author": [
+			{
+				"family": "Powers",
+				"given": "Thomas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KRY487DN",
+		"type": "book",
+		"edition": "Reissue 2003",
+		"ISBN": "1-56584-859-4",
+		"publisher": "The New Press",
+		"title": "Towards a New Cold War: U.S. Foreign Policy from Vietnam to Reagan",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/RYR5C2JZ",
+		"type": "book",
+		"ISBN": "1-55420-004-0",
+		"publisher": "New Star Books",
+		"title": "Class Warfare",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KHEHFTH9",
+		"type": "book",
+		"ISBN": "978-0-262-03840-9",
+		"publisher": "The MIT Press",
+		"title": "How Smart Machines Think",
+		"author": [
+			{
+				"family": "Gerrish",
+				"given": "Sean"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/MSCHRUIQ",
+		"type": "book",
+		"ISBN": "978-0-19-280585-0",
+		"publisher": "Oxford University Press",
+		"title": "Consciousness: A Very Short Introduction",
+		"author": [
+			{
+				"family": "Blackmore",
+				"given": "Susan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/7XZGDABM",
+		"type": "book",
+		"ISBN": "978-0-19-280585-0",
+		"publisher": "Oxford University Press",
+		"title": "Consciousness: A Very Short Introduction",
+		"author": [
+			{
+				"family": "Blackmore",
+				"given": "Susan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/RE4JS4QC",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-59625-730-6",
+		"publisher": "Digireads.com",
+		"title": "The Varieties of Religious Experience [with Biographical Introduction]",
+		"author": [
+			{
+				"family": "James",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1902"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/SFR5X6HU",
+		"type": "book",
+		"ISBN": "1-58423-073-8",
+		"publisher": "Gingko Press",
+		"title": "Understanding Media: The Extensions of Man",
+		"author": [
+			{
+				"family": "McLuhan",
+				"given": "Marshall"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/JARU5JPR",
+		"type": "book",
+		"ISBN": "978-0-19-955137-8",
+		"publisher": "Oxford",
+		"title": "Information : A Very Short Introduction",
+		"author": [
+			{
+				"family": "Floridi",
+				"given": "Luciano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/57LYA7N2",
+		"type": "book",
+		"ISBN": "0-945001-01-0",
+		"publisher": "GSG and Associates",
+		"title": "The Anglo-American Establishment",
+		"author": [
+			{
+				"family": "Quigley",
+				"given": "Carroll"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/XHNXJG4K",
+		"type": "book",
+		"ISBN": "0-415-09456-9",
+		"publisher": "Routledge",
+		"title": "Power: A New Social Analysis",
+		"author": [
+			{
+				"family": "Russell",
+				"given": "Bertrand"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1938"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/4ULIM5L2",
+		"type": "book",
+		"ISBN": "0-226-91067-9",
+		"publisher": "Univ of Chicago Press",
+		"title": "Power: Its Forms, Bases, and Uses",
+		"author": [
+			{
+				"family": "Wrong",
+				"given": "Dennis H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/ZBXUV338",
+		"type": "book",
+		"edition": "Kindle, revised",
+		"ISBN": "9798556079717",
+		"publisher": "Independently published",
+		"title": "UFOs, Area 51, and Government Informants: A Report on Government Involvement in UFO Crash Retrievals",
+		"author": [
+			{
+				"family": "Cameron",
+				"given": "Grant"
+			},
+			{
+				"family": "Crain Jr.",
+				"given": "T. Scott"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/RA5I6M8G",
+		"type": "book",
+		"ISBN": "978-1-4952-9160-9",
+		"publisher": "Richard Dolan Press",
+		"title": "UFOs for the 21st Century Mind: A Fresh Guide to an Ancient Mystery",
+		"author": [
+			{
+				"family": "Dolan",
+				"given": "Richard M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/9JUUBVVD",
+		"type": "book",
+		"edition": "Reprint 2004",
+		"ISBN": "0-945001-10-X",
+		"publisher": "GSG and Associates",
+		"title": "Tragedy & Hope: A History of the World in Our Time",
+		"author": [
+			{
+				"family": "Quigley",
+				"given": "Carroll"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/ABXPFCSZ",
+		"type": "book",
+		"ISBN": "978-0-674-04920-8",
+		"publisher": "Harvard University Press",
+		"title": "The Ecological Thought",
+		"author": [
+			{
+				"family": "Morton",
+				"given": "Timothy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/N5S6HLFW",
+		"type": "book",
+		"ISBN": "978-0-8166-8923-1",
+		"publisher": "Univ Of Minnesota Press",
+		"title": "Hyperobjects: Philosophy and Ecology After the End of the World",
+		"author": [
+			{
+				"family": "Morton",
+				"given": "Timothy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/GAU9XINH",
+		"type": "book",
+		"edition": "Expanded Third",
+		"ISBN": "978-1-57864-501-5",
+		"publisher": "Donning",
+		"title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+		"editor": [
+			{
+				"family": "Kaufman",
+				"given": "Peter D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/V3497DM5",
+		"type": "book",
+		"ISBN": "978-0-525-53885-1",
+		"publisher": "Riverhead",
+		"title": "Extra Life: A Short History of Living Longer",
+		"author": [
+			{
+				"family": "Johnson",
+				"given": "Steven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/PD9KTVAT",
+		"type": "book",
+		"ISBN": "0-945700-04-0",
+		"publisher": "Oxford Village Press",
+		"title": "The Underground History of American Education",
+		"author": [
+			{
+				"family": "Gatto",
+				"given": "John Taylor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/NA7INEE9",
+		"type": "book",
+		"ISBN": "978-0-06-229605-4",
+		"publisher": "Harper Perennial",
+		"title": "Life: The Leading Edge of Evolutionary Biology, Genetics, Anthropology, and Environmental Science",
+		"editor": [
+			{
+				"family": "Brockman",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/AWGBQ8PB",
+		"type": "book",
+		"edition": "20th anniv.",
+		"ISBN": "978-1-61268-017-0",
+		"publisher": "Plata Publishing",
+		"title": "Rich Dad Poor Dad",
+		"author": [
+			{
+				"family": "Kiyosaki",
+				"given": "Robert T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/IZ427WUJ",
+		"type": "book",
+		"edition": "Revised, updated",
+		"ISBN": "978-0-06-302730-5",
+		"publisher": "Custom House",
+		"title": "We Have Been Harmonized: Life in China's Surveillance State",
+		"author": [
+			{
+				"family": "Strittmatter",
+				"given": "Kai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/5XVT6U5U",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-61039-570-0",
+		"publisher": "PublicAffairs",
+		"title": "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+		"author": [
+			{
+				"family": "Zuboff",
+				"given": "Shoshana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/WGC89JEQ",
+		"type": "book",
+		"ISBN": "978-0-316-20230-5",
+		"publisher": "Back Bay Books",
+		"title": "Area 51: An Uncensored History of America's Top Secret Military Base",
+		"author": [
+			{
+				"family": "Jacobsen",
+				"given": "Annie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/DKFCLDDM",
+		"type": "book",
+		"edition": "60th Anniversary",
+		"ISBN": "978-0-691-11993-9",
+		"publisher": "Princeton University Press",
+		"title": "Theory of Games and Economic Behavior: 60th Anniversary Commemorative Edition",
+		"author": [
+			{
+				"family": "Neumann",
+				"given": "John",
+				"non-dropping-particle": "von"
+			},
+			{
+				"family": "Morgenstern",
+				"given": "Oskar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/U7FEFCH5",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-63149-163-4",
+		"publisher": "Liveright",
+		"title": "Ratf**ked: Why Your Vote Doesn't Count",
+		"author": [
+			{
+				"family": "Daley",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/76SS4UH4",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-63158-483-1",
+		"publisher": "Racehorse",
+		"title": "The Constitution of the United States and The Declaration of Independence",
+		"author": [
+			{
+				"family": "Jefferson",
+				"given": "Thomas"
+			},
+			{
+				"family": "Madison",
+				"given": "James"
+			},
+			{
+				"family": "Hamilton",
+				"given": "Alexander"
+			},
+			{
+				"family": "Jay",
+				"given": "John"
+			},
+			{
+				"family": "Washington",
+				"given": "George"
+			},
+			{
+				"family": "Dershowitz",
+				"given": "Alan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/5ECQ8DJJ",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-0691199955",
+		"publisher": "Princeton University Press",
+		"title": "Deaths of Despair and the Future of Capitalism",
+		"author": [
+			{
+				"family": "Case",
+				"given": "Anne"
+			},
+			{
+				"family": "Deaton",
+				"given": "Angus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/44FLXDRA",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-62040-892-6",
+		"publisher": "Bloomsbury",
+		"title": "Chasing the Scream: The First and Last Days of the War on Drugs",
+		"author": [
+			{
+				"family": "Hari",
+				"given": "Johann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/JY69ITEK",
+		"type": "book",
+		"ISBN": "978-0-19-968937-8",
+		"publisher": "Oxford University Press",
+		"title": "Microeconomics: A Very Short Introduction",
+		"author": [
+			{
+				"family": "Dixit",
+				"given": "Avinash"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/YB4CR8JC",
+		"type": "book",
+		"ISBN": "978-0-19-285345-5",
+		"publisher": "Oxford University Press",
+		"title": "Economics: A Very Short Introduction",
+		"author": [
+			{
+				"family": "Dasgupta",
+				"given": "Partha"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KC5A23DD",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "978-1-61039-438-3",
+		"publisher": "PublicAffairs",
+		"title": "The Biology of Desire: Why Addiction Is Not a Disease",
+		"author": [
+			{
+				"family": "Lewis",
+				"given": "Marc"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/J6HDWR3R",
+		"type": "book",
+		"edition": "2018",
+		"ISBN": "978-0-7166-0118-0",
+		"publisher": "World Book, Inc.",
+		"title": "World Book Encyclopedia 2018, 22 Volume Set",
+		"author": [
+			{
+				"family": "World Book",
+				"given": "Encyclopedia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/J9JXIAQL",
+		"type": "book",
+		"ISBN": "978-0-00-722178-3",
+		"publisher": "HarperCollins",
+		"title": "China: A History",
+		"author": [
+			{
+				"family": "Keay",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/624A5FKM",
+		"type": "book",
+		"edition": "reprint",
+		"ISBN": "978-1-62654-305-8",
+		"publisher": "Echo Point",
+		"title": "Unrestricted Warfare: China's Master Plan to Destroy America",
+		"author": [
+			{
+				"family": "Qiao",
+				"given": "Liang"
+			},
+			{
+				"family": "Wang",
+				"given": "Xiangsui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/6LNSBHND",
+		"type": "book",
+		"edition": "Kindle",
+		"ISBN": "0-578-73293-9",
+		"publisher": "Cosmopolis Press",
+		"title": "The Fascism this Time: and the Global Future of Democracy",
+		"author": [
+			{
+				"family": "Horesh",
+				"given": "Theo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/QWLECMQH",
+		"type": "book",
+		"ISBN": "978-0-300-20957-0",
+		"publisher": "Yale University Press",
+		"title": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
+		"author": [
+			{
+				"family": "Crawford",
+				"given": "Kate"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/PAS8C3JA",
+		"type": "book",
+		"ISBN": "978-1-5416-7473-8",
+		"publisher": "Basic Books",
+		"title": "Rule of the Robots: How Artificial Intelligence Will Transform Everything",
+		"author": [
+			{
+				"family": "Ford",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/42IBQXU6",
+		"type": "book",
+		"ISBN": "978-0-14-028019-7",
+		"publisher": "Penguin",
+		"title": "The 48 Laws Of Power",
+		"author": [
+			{
+				"family": "Greene",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/3YVC2NZ9",
+		"type": "book",
+		"ISBN": "0-14-006748-5",
+		"publisher": "Penguin",
+		"title": "The Puzzle Palace: A Report on America's Most Secret Agency",
+		"author": [
+			{
+				"family": "Bamford",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/T28VUPDU",
+		"type": "book",
+		"ISBN": "978-0-241-96898-7",
+		"publisher": "Penguin",
+		"title": "No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",
+		"author": [
+			{
+				"family": "Greenwald",
+				"given": "Glenn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/SI6CK89D",
+		"type": "book",
+		"edition": "2nd",
+		"ISBN": "978-0-306-80320-8",
+		"publisher": "Da Capo",
+		"title": "The Human Use Of Human Beings: Cybernetics and Society",
+		"author": [
+			{
+				"family": "Wiener",
+				"given": "Norbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1954"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/PZBTAH27",
+		"type": "book",
+		"edition": "2nd",
+		"ISBN": "978-1-61427-502-2",
+		"publisher": "MIT",
+		"title": "Cybernetics: Or the Control and Communication in the Animal and the Machine",
+		"author": [
+			{
+				"family": "Wiener",
+				"given": "Norbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/GDS8HS9B",
+		"type": "book",
+		"ISBN": "978-0-14-311037-8",
+		"publisher": "Penguin Books",
+		"title": "The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future",
+		"author": [
+			{
+				"family": "Kelly",
+				"given": "Kevin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/PR7IQ47B",
+		"type": "book",
+		"ISBN": "978-0-521-04595-7",
+		"publisher": "Cambridge University Press",
+		"title": "The Mathematical Papers of Isaac Newton: Volume 1",
+		"author": [
+			{
+				"family": "Newton",
+				"given": "Isaac"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/MSTSS28J",
+		"type": "book",
+		"ISBN": "0-415-93858-9",
+		"publisher": "Routledge",
+		"title": "Anthropic Bias: Observation Selection Effects in Science and Philosophy",
+		"author": [
+			{
+				"family": "Bostrom",
+				"given": "Nick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/M8VZIVF6",
+		"type": "book",
+		"edition": "1999 reprint",
+		"ISBN": "0-486-40916-3",
+		"publisher": "Dover",
+		"title": "Mathematics: Its Content, Methods and Meaning (3 Volumes in One)",
+		"author": [
+			{
+				"family": "Aleksandrov",
+				"given": "A. D."
+			},
+			{
+				"family": "Kolmogorov",
+				"given": "A. N."
+			},
+			{
+				"family": "Lavrent’ev",
+				"given": "M. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/XWUXY8JK",
+		"type": "book",
+		"edition": "1979 reprint",
+		"ISBN": "0-486-63760-3",
+		"publisher": "Dover",
+		"title": "Principles of Statistics",
+		"author": [
+			{
+				"family": "Bulmer",
+				"given": "M. G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/PBB5GIDD",
+		"type": "book",
+		"publisher": "Hawthorn Books",
+		"title": "The Nature and Growth of Modern Mathematics",
+		"author": [
+			{
+				"family": "Kramer",
+				"given": "Edna Ernestine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/AZQQES2C",
+		"type": "book",
+		"edition": "1st",
+		"ISBN": "0-201-12037-2",
+		"publisher": "Addison-Wesley",
+		"title": "Introduction to Algorithms: A Creative Approach",
+		"author": [
+			{
+				"family": "Manber",
+				"given": "Udi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/V3QLLJET",
+		"type": "book",
+		"edition": "4th",
+		"ISBN": "0-618-39437-0",
+		"publisher": "Houghton Mifflin",
+		"title": "College Algebra: A Graphing Approach",
+		"author": [
+			{
+				"family": "Larson",
+				"given": "Ron"
+			},
+			{
+				"family": "Hostetler",
+				"given": "Robert P."
+			},
+			{
+				"family": "Edwards",
+				"given": "Bruce H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/AFZK6DQH",
+		"type": "book",
+		"edition": "7th",
+		"ISBN": "0-321-23386-7",
+		"publisher": "Addison-Wesley",
+		"title": "Intermediate Algebra: Concepts and Applications",
+		"author": [
+			{
+				"family": "Bittinger",
+				"given": "Marvin L."
+			},
+			{
+				"family": "Ellenbogen",
+				"given": "David J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/85FAKRT7",
+		"type": "book",
+		"ISBN": "0-03-921835-X",
+		"publisher": "Holt, Rinehard and Winston",
+		"title": "Introduction to Linear Algebra",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Robert F. V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/MF98C9F3",
+		"type": "book",
+		"publisher": "Wnwin Brothers",
+		"title": "My Philosophical Development",
+		"author": [
+			{
+				"family": "Russell",
+				"given": "Bertrand"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/KNG7N6PH",
+		"type": "book",
+		"edition": "2010 reprint",
+		"ISBN": "978-1-61016-145-9",
+		"publisher": "Ludwig von Mises Institute",
+		"title": "Human Action: A Treatise on Economics",
+		"author": [
+			{
+				"family": "Mises",
+				"given": "Ludwig",
+				"dropping-particle": "von"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/8GJLHEKC",
+		"type": "book",
+		"edition": "Kindle, 8th",
+		"ISBN": "978-0-19-255461-1",
+		"publisher": "OUP Oxford",
+		"title": "A Dictionary of Physics",
+		"author": [
+			{
+				"family": "Rennie",
+				"given": "Richard"
+			},
+			{
+				"family": "Law",
+				"given": "Jonathan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/TYLCMWAH",
+		"type": "book",
+		"ISBN": "978-981-270-707-9",
+		"publisher": "World Scientific",
+		"title": "A Farewell To Entropy: Statistical Thermodynamics Based On Information",
+		"author": [
+			{
+				"family": "Ben-Naim",
+				"given": "Arieh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/WCNCL5KZ",
+		"type": "book",
+		"edition": "1982 Revised",
+		"ISBN": "0-486-24401-6",
+		"publisher": "Dover Publications",
+		"title": "Prelude to Mathematics",
+		"author": [
+			{
+				"family": "Sawyer",
+				"given": "W. W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/YP78UCJR",
+		"type": "book",
+		"ISBN": "978-0-9996859-0-7",
+		"publisher": "Triangle Connection",
+		"title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+		"author": [
+			{
+				"family": "Althoff",
+				"given": "Cory"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/Y3C3RG96",
+		"type": "book",
+		"ISBN": "978-1-4662-3052-1",
+		"publisher": "Independently published",
+		"title": "Mathematical Notation: A Guide for Engineers and Scientists",
+		"author": [
+			{
+				"family": "Scheinerman",
+				"given": "Edward R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/2Y2QS6U9",
+		"type": "book",
+		"ISBN": "978-1-108-45514-5",
+		"publisher": "Cambridge University Press",
+		"title": "Mathematics for Machine Learning",
+		"author": [
+			{
+				"family": "Deisenroth",
+				"given": "Marc Peter"
+			},
+			{
+				"family": "Faisal",
+				"given": "Aldo A."
+			},
+			{
+				"family": "Ong",
+				"given": "Cheng Soon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/SXYJS2LX",
+		"type": "book",
+		"ISBN": "978-1-119-72441-4",
+		"publisher": "Wiley",
+		"title": "The Self-Taught Computer Scientist: The Beginner's Guide to Computer Science",
+		"author": [
+			{
+				"family": "Althoff",
+				"given": "Cory"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/AR54BPFC",
+		"type": "book",
+		"ISBN": "978-1-119-72441-4",
+		"publisher": "Wiley",
+		"title": "The Self-Taught Computer Scientist: The Beginner's Guide to Computer Science",
+		"author": [
+			{
+				"family": "Althoff",
+				"given": "Cory"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/WN3LNQJL",
+		"type": "book",
+		"edition": "Kindle, 7th",
+		"ISBN": "978-0-19-100288-5",
+		"publisher": "Oxford University Press",
+		"title": "A Dictionary of Computer Science",
+		"editor": [
+			{
+				"family": "Butterfield",
+				"given": "Andrew"
+			},
+			{
+				"family": "Ngondi",
+				"given": "Gerard Ekembe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/BPHG4DCR",
+		"type": "book",
+		"edition": "English Language",
+		"ISBN": "0-553-26382-X",
+		"publisher": "Bantam",
+		"title": "The Dancing Wu Li Masters: An Overview of the New Physics",
+		"author": [
+			{
+				"family": "Zukav",
+				"given": "Gary"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/X8UZKM9R",
+		"type": "book",
+		"edition": "2nd",
+		"ISBN": "978-0-201-55802-9",
+		"publisher": "Addison-Wesley Professional",
+		"title": "Concrete Mathematics: A Foundation for Computer Science",
+		"author": [
+			{
+				"family": "Graham",
+				"given": "Ronald"
+			},
+			{
+				"family": "Knuth",
+				"given": "Donald"
+			},
+			{
+				"family": "Patashnik",
+				"given": "Oren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/X2QHC64P",
+		"type": "book",
+		"ISBN": "978-1-4919-2912-4",
+		"publisher": "O'Reilly Media",
+		"title": "Site Reliability Engineering: How Google Runs Production Systems",
+		"author": [
+			{
+				"family": "Beyer",
+				"given": "Betsy"
+			},
+			{
+				"family": "Jones",
+				"given": "Chris"
+			},
+			{
+				"family": "Petoff",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Murphy",
+				"given": "Niall"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/NLG7E3EE",
+		"type": "book",
+		"edition": "Updated 2017",
+		"ISBN": "978-1-4555-8232-7",
+		"publisher": "Grand Central",
+		"title": "How Google Works",
+		"author": [
+			{
+				"family": "Schmidt",
+				"given": "Eric"
+			},
+			{
+				"family": "Rosenberg",
+				"given": "Jonathan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/BHVMNDYT",
+		"type": "book",
+		"ISBN": "978-1-58603-833-5",
+		"publisher": "IOS Press",
+		"title": "Artificial General Intelligence 2008: Proceedings of the First AGI Conference",
+		"editor": [
+			{
+				"family": "Wang",
+				"given": "Pei"
+			},
+			{
+				"family": "Goertzel",
+				"given": "Ben"
+			},
+			{
+				"family": "Franklin",
+				"given": "Stan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/N6HHLNTS",
+		"type": "book",
+		"ISBN": "0-934613-31-1",
+		"publisher": "Morgan Kaufmann",
+		"title": "Logical Foundations of Artificial Intelligence",
+		"author": [
+			{
+				"family": "Genesereth",
+				"given": "Michael R."
+			},
+			{
+				"family": "Nilsson",
+				"given": "Nils J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/X8PI4YRC",
+		"type": "book",
+		"ISBN": "978-1-932595-80-2",
+		"publisher": "Feral House",
+		"title": "Technological Slavery: The Collected Writings of Theodore J. Kaczynski",
+		"author": [
+			{
+				"family": "Kaczynski",
+				"given": "Theodore J."
+			},
+			{
+				"family": "Skrbina",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/Yx6hyS0U/items/CIZCJNAJ",
+		"type": "book",
+		"ISBN": "978-0-593-23952-0",
+		"publisher": "Currency",
+		"title": "How Big Things Get Done",
+		"author": [
+			{
+				"family": "Flyvbjerg",
+				"given": "Bent"
+			},
+			{
+				"family": "Gardner",
+				"given": "Dan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]
