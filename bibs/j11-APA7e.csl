@@ -374,56 +374,26 @@
     </names>
   </macro>
   <macro name="author-intext">
-    <choose>
-      <if type="bill legal_case legislation treaty" match="any">
-        <text macro="title-intext"/>
-      </if>
-      <else-if type="interview personal_communication" match="any">
+    <names variable="composer" delimiter=", ">
+      <name form="short" and="symbol" delimiter=", " initialize-with=". "  font-weight="bold"/> <!--THIS!  makes the author bold, and only the author, not the date. [2023-12-06 Wed 17:33] Jesus. -->
+      <substitute>
+        <names variable="author"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
         <choose>
-          <if variable="archive container-title DOI publisher URL" match="none">
-            <group delimiter=", ">
-              <names variable="author">
-                <name and="symbol" delimiter=", " initialize-with=". "/>
-                <substitute>
-                  <text macro="title-intext"/>
-                </substitute>
-              </names>
-              <text term="letter"/>
-            </group>
-          </if>
-          <else>
-            <names variable="author" delimiter=", ">
-              <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
-              <substitute>
-                <text macro="title-intext"/>
-              </substitute>
-            </names>
-          </else>
-        </choose>
-      </else-if>
-      <else>
-        <names variable="composer" delimiter=", ">
-          <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
-          <substitute>
-            <names variable="author"/>
-            <names variable="illustrator"/>
-            <names variable="director"/>
+          <if variable="container-title">
             <choose>
-              <if variable="container-title">
-                <choose>
-                  <if type="book entry entry-dictionary entry-encyclopedia" match="any">
-                    <text macro="title-intext"/>
-                  </if>
-                </choose>
+              <if type="book entry entry-dictionary entry-encyclopedia" match="any">
+                <text macro="title-intext"/>
               </if>
             </choose>
-            <names variable="editor"/>
-            <names variable="editorial-director"/>
-            <text macro="title-intext"/>
-          </substitute>
-        </names>
-      </else>
-    </choose>
+          </if>
+        </choose>
+        <names variable="editor"/>
+        <names variable="editorial-director"/>
+        <text macro="title-intext"/>
+      </substitute>
+    </names> 
   </macro>
   <macro name="date-bib">
     <group delimiter=" " prefix="(" suffix=").">
@@ -1433,7 +1403,7 @@
         <!-- <group display="block" delimiter=" " prefix="&#13;">                            <!-\- Works for html, not latex -jlm -\->   -->
         <!-- <group display="left-margin" delimiter=" " prefix="">                           <!-\- Works for html, not latex -\-> -->
         <!-- <group display="block, right-margin" delimiter=" " prefix="">                           <!-\- html newline is indented, but html is not newlined. latex bad. -\-> -->
-        
+
         <group display="block" delimiter=" " prefix="&#10; \newline" suffix="&#10;">   <!-- This works for both, but \newline needs to be sed-ed out of html... Maybe don't bother with the newline.  -jlm-->
           <choose>
             <if variable="issued status" match="none">
@@ -1747,9 +1717,11 @@
       <key macro="date-bib" sort="ascending"/>
       <key variable="status"/>
     </sort>
-    <layout prefix="(" suffix=")" delimiter="; ">
+    <layout prefix="(" suffix=")" delimiter="; ">        <!--This makes author in-line bold, but bolds the date, if there is one, instead.-->
       <group delimiter=", ">
+
         <text macro="author-intext"/>
+
         <text macro="date-intext"/>
         <text macro="citation-locator"/>
       </group>
